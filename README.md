@@ -8,7 +8,7 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
-None currently available.
+Chitown Willie install order on 2022-01-06 with [BGEE](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/tree/main/user-submitted-weidu-logs/chitownwillie)
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
