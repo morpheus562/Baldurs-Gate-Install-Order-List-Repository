@@ -1,5 +1,5 @@
 # Baldurs-Gate-Install-Order-List-Repository
-This Respository is a collection of user submitted WeiDU logs for Baldurs Gate: Enhanced Edition, Baldur's Gate II: Enhanced Edition, and Enhanced Edition Trilogy (EET). The aim of this collection is to assist players in determining install orders and compatability by being able to see other user uploaded WeiDU logs.  
+This Repository is a collection of user submitted WeiDU logs for Baldurs Gate: Enhanced Edition, Baldur's Gate II: Enhanced Edition, and Enhanced Edition Trilogy (EET). The aim of this collection is to assist players in determining install orders and compatibility by being able to see other user uploaded WeiDU logs.  
 
 **DISCLAIMER** If you choose to use these logs, it is your responsibility to determine if the install orders are current and work without conflict. 
 
