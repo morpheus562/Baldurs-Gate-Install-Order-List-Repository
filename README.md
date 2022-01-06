@@ -16,4 +16,6 @@ None currently available.
 
 ## Enhanced Edition Trilogy (EET) WeiDU Logs
 
+graiondilach install order on 12/23/2021 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/readme.md) [Pre-EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/WeiDU-BGEE-12232021.log) and [EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/WeiDU-EET-12232021.log)
+
 morpheus562 installed on 1/5/2022 [Pre-EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/WeiDU-BGEE-01052022.log) [EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/WeiDU-EET-01052022.log)
