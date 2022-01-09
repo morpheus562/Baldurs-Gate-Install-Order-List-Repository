@@ -221,8 +221,9 @@
 ~ITEMUPGRADE\ITEMUPGRADE.TP2~ #0 #10 // Shadows Of Amn Item Upgrades -> Revised Version (new upgrades presented in the same style as existing upgrades): v47
 ~ITEMUPGRADE\ITEMUPGRADE.TP2~ #0 #11 // Throne Of Bhaal Item Upgrades -> Revised Version (new upgrades presented in the same style as existing upgrades): v47
 ~UNDERREP\SETUP-UNDERREP.TP2~ #0 #0 // Underrepresented Items From Icewind Dale 2: v7
-~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #1 // Install Forgotten Armament Items: v0.1
-~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #8 // Replace Boots of Speed (Paws of the Cheetah): v0.1
+~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #0 #1 // Install Forgotten Armament Items: v0.2.1-beta
+~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #0 #6 // Update Weapon Fighting Styles (2H Weapons, 1H Weapons, Sword & Shield) -> 1/2 APR increase to all 2H Weapons when Specialized (2 slots) in Two-Handed Fighting Style: v0.2.1-beta
+~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #0 #8 // Replace Boots of Speed (Paws of the Cheetah): v0.2.1-beta
 ~MIH_SP\SETUP-MIH_SP.TP2~ #0 #0 // Made in Heaven: Spell Restorations: v5
 ~MIH_SP\SETUP-MIH_SP.TP2~ #0 #1 // Made in Heaven: Arcane Spellpack: v5
 ~MIH_SP\SETUP-MIH_SP.TP2~ #0 #2 // Made in Heaven: Divine Spellpack: v5
