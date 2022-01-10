@@ -8,7 +8,7 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
-Chitown Willie install order on 2022-01-06 for [BGEE](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/chitownwillie/WeiDU-BGEE-2022-01-06.log)
+Chitown Willie install order on 2022-01-06 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/chitownwillie/WeiDU-BGEE-2022-01-06.log)
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
@@ -16,6 +16,6 @@ None currently available.
 
 ## Enhanced Edition Trilogy (EET) WeiDU Logs
 
-graiondilach install order on 2021-12-23 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/readme.md), [Pre-EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/WeiDU-BGEE-2021-12-23.log), and [EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/WeiDU-EET-2021-12-23.log)
+graiondilach install order on 2021-12-23 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/graiondilach/readme.md), [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/graiondilach/WeiDU-BGEE-2021-12-23.log), and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/graiondilach/WeiDU-EET-2021-12-23.log)
 
-morpheus562 installed on 2022-01-08 for [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-BGEE-2022-01-05.log) and [EET](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/WeiDU-EET-2022-01-05.log)
+morpheus562 installed on 2022-01-08 for [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-BGEE-2022-01-05.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-EET-2022-01-05.log)
