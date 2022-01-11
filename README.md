@@ -10,7 +10,7 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
 
-[Project Infinity Tutorial for Baldur's Gate II: Enhanced Edition Trilogy Mod Install](https://www.youtube.com/watch?v=wt1mWX2zo_4)
+[Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
 
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
