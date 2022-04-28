@@ -14,7 +14,7 @@ Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](
 
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
-Chitown Willie install order on 2022-01-06 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/chitownwillie/WeiDU-BGEE-2022-01-06.log)
+Chitown Willie install order on 2022-04-28 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/chitownwillie/WeiDU-BGEE-2022-04-28.log)
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
