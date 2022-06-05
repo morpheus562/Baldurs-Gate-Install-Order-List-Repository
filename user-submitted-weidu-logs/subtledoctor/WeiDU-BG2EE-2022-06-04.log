@@ -1,0 +1,450 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~EEUITWEAKS/EEUITWEAKS.TP2~ #0 #1070 // Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI: 3.5
+~EEUITWEAKS/EEUITWEAKS.TP2~ #0 #2120 // CLUAConsole for mobile: 3.5
+~ASCENSION/ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #61 // Expanded Epilogues for Bioware NPCs -> Alternate epilogues by Shawne: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #2100 // Alternate Balthazar portrait, by Cuv: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.12
+~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.12
+~AC_QUEST/SETUP-AC_QUEST.TP2~ #1 #0 // Ascalon's Questpack: 2.00b_160119
+~C#SB_SILBER/SETUP-C#SB_SILBER.TP2~ #0 #0 // Adalon's Blood - Modification for BGII by Gandalf the white: 14
+~DC/DC.TP2~ #0 #0 // Dungeon Crawl: v12
+~BACKBRYNNLAW/BACKBRYNNLAW.TP2~ #0 #0 // Back to Brynnlaw mod for Baldur's Gate II: v7
+~SELLSWORDS/SELLSWORDS.TP2~ #0 #0 // The Sellswords mod for Baldur's Gate II: v7
+~TOTDG/SETUP-TOTDG.TP2~ #0 #0 // Colours of Infinity: Tales of the Deep Gardens -> Yes, but don't patch the existing save games: 12.5
+~INNERSHADE/SETUP-INNERSHADE.TP2~ #0 #0 // Colours of Infinity: Innershade -> Yes, but don't patch the existing save games: 10.4
+~WHITEQUEEN/WHITEQUEEN.TP2~ #0 #0 // Colours of Infinity - The White Queen -> Yes, but don't patch the existing save games: 6.6
+~EILISTRAEE/SETUP-EILISTRAEE.TP2~ #0 #0 // Eilistraee's Song -> Yes, but don't patch the existing save games: 6.6
+~ISNF/ISNF.TP2~ #0 #0 // Colours of Infinity: I Shall Never Forget: 5.7
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #0 // Restored Locations: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #1 // Restored Characters and Dialogs: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #3 // Restored Items: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #4 // Restored Wish Options: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #5 // Restored XP for Minor Things: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #6 // Lich Deril: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #7 // Restored Random Encounters: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #8 // Minor Restorations: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #11 // Restored Final Slayer Dream: v8.4
+~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #13 // Restored Waukeen's Promenade Cutscene: v8.4
+~UB/SETUP-UB.TP2~ #0 #1 // The Suna Seni/Valygar Relationship: v27alpha
+~UB/SETUP-UB.TP2~ #0 #2 // Kalah and What He Was Promised: v27alpha
+~UB/SETUP-UB.TP2~ #0 #4 // Gorje Hilldark and the Extended Illithium Quest: v27alpha
+~UB/SETUP-UB.TP2~ #0 #5 // The Pai'Na/Spider's Bane Quest: v27alpha
+~UB/SETUP-UB.TP2~ #0 #6 // Restored Crooked Crane Inn: v27alpha
+~UB/SETUP-UB.TP2~ #0 #7 // Restored Encounters: v27alpha
+~UB/SETUP-UB.TP2~ #0 #9 // Corrected "Xzar's Creations": v27alpha
+~UB/SETUP-UB.TP2~ #0 #10 // Restored Hell Minions, by SimDing0: v27alpha
+~UB/SETUP-UB.TP2~ #0 #11 // Gorf the Squisher Fix, by Gebhard Blucher: v27alpha
+~UB/SETUP-UB.TP2~ #0 #12 // Item Restorations: v27alpha
+~UB/SETUP-UB.TP2~ #0 #15 // NPC Portrait Restorations: v27alpha
+~UB/SETUP-UB.TP2~ #0 #16 // Corrected BAMs and Scripts: v27alpha
+~UB/SETUP-UB.TP2~ #0 #17 // Corrected Character Names and Biographies: v27alpha
+~UB/SETUP-UB.TP2~ #0 #18 // Restored Minor Dialogs: v27alpha
+~UB/SETUP-UB.TP2~ #0 #21 // Throne of Bhaal Minor Restorations: v27alpha
+~UB/SETUP-UB.TP2~ #0 #26 // Restored Banters, by Camdawg and Angel: v27alpha
+~FISHINGFORTROUBLE/FISHINGFORTROUBLE.TP2~ #0 #0 // Core Files: Fishing for Trouble by Yovaneth: 3.2.5
+~FISHINGFORTROUBLE/FISHINGFORTROUBLE.TP2~ #0 #1 // Optional: Add portraits for 63 major NPCs in Fishing for Trouble: 3.2.5
+~SOUTHERNEDGE/SOUTHERNEDGE.TP2~ #0 #0 // Southern Edge: the new district of Athkatla -> Yes, but don't patch the existing save games: 3.10
+~TANGLEDISLE/TANGLEDISLE.TP2~ #0 #0 // The Tangled Oak Isle: the new area of Athkatla -> Yes, but don't patch existing save games: 2.01
+~OOZE/OOZE.TP2~ #0 #0 // Ooze's Lounge: a new area under Athkatlan Slums: 2.7
+~ITEMUPGRADE/ITEMUPGRADE.TP2~ #0 #10 // Shadows Of Amn Item Upgrades -> Revised Version (new upgrades presented in the same style as existing upgrades): v44
+~ITEMUPGRADE/ITEMUPGRADE.TP2~ #0 #11 // Throne Of Bhaal Item Upgrades -> Revised Version (new upgrades presented in the same style as existing upgrades): v44
+~CLIFFHISTORY/SETUP-CLIFFHISTORY.TP2~ #0 #0 // Cliffette's 'History' BWI contest entry: v2
+~SETUP-D0QUESTPACK.TP2~ #0 #0 // General AI Improvements: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #1 // Creature & Area Improvements -> All Creature & Area Improvements: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #401 // Miscellaneous Enhancements -> Without Additonal Random Encounters: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #5 // Additional Shadow Thieves Content: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #6 // Alternative Harper/Xzar Plot: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #7 // Extended Reynald Sequence: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #8 // Intrigue In The Copper Coronet: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #9 // Rahul Kanakia's Potion Quest: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #10 // Revised Hell Trials: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #12 // Improved Oasis II -> IO2 Dialogue Enhancement Only: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #13 // Saving Sanik In Brynnlaw: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #14 // Burglary Of The Bookkeeper: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #15 // New Fate For The Dryads' Acorns: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #16 // The Tragedy Of Besamen: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #17 // Further Slaver Involvement: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #18 // Sending The Solamnic Knights Home: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #19 // Nazariel The Lich: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #20 // Reward Negotiation: v3.2
+~SETUP-D0QUESTPACK.TP2~ #0 #21 // Infernal Thievery: v3.2
+~SETUP-TURNABOUT.TP2~ #0 #0 // Ascension: Turnabout: v1.3
+~SETUP-TURNABOUT.TP2~ #0 #1 // Balthazar Epilogue Portrait, by Cliffette: v1.3
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #0 // Lady Elgea's extended plot: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #1 // Anomen's extended plot: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #2 // Jerlia's Ore Shop: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #3 // Elven holy water in the Temple of Lathander: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #4 // Wave Blade in Treasury: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #6 // Bards can spend the night at the festival (Five Flagons): beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #7 // A bard for the bard stronghold: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #8 // Silver Sword: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #9 // A Tunnel for Saradush: beta_4
+~HIDDENADVENTURE/HIDDENADVENTURE.TP2~ #1 #10 // Temple of Mask in Docks District: beta_4
+~SNAKES/SNAKES.TP2~ #0 #0 // The Slithering Menace (for BGII:ToB only): v4.0.0
+~DW_LANTHORN/DW_LANTHORN.TP2~ #0 #10 // Restored Rhynn Lanthorn lens quest -> Classic Version (faithful restoration of cut content from the original game): v beta 1
+~AJANTISBG2/AJANTISBG2.TP2~ #1 #0 // Sir Ajantis NPC for BGII: 20
+~AJANTISBG2/AJANTISBG2.TP2~ #1 #1 // Install the unique BG(II):EE BAM for Ajantis' Family Shield: 20
+~KIVAN/SETUP-KIVAN.TP2~ #0 #100 // Kivan of Shilmista: v16
+~KIVAN/SETUP-KIVAN.TP2~ #0 #202 // Change Deheriana's Class from Fighter/Mage/Cleric to: -> Specialist-Mage, Diviner: v16
+~KIVAN/SETUP-KIVAN.TP2~ #0 #300 // Install Herd's Alternative Portrait for Kivan.: v16
+~FADE/SETUP-FADE.TP2~ #0 #0 // Fade: An NPC for Baldur's Gate II: SoA and ToB: 5.6
+~XAN/XAN.TP2~ #0 #0 // Xan NPC MOD for Baldur's Gate II: v17
+~YESLICKNPC/YESLICKNPC.TP2~ #0 #0 // Yeslick NPC for BGII: SoA & ToB -> Yeslick is a regular Fighter-Cleric: v3.0
+~SETUP-ALORA.TP2~ #0 #0 // Chosen of Mystra's Alora NPC Mod: 1.5
+~AURENASEPH/SETUP-AURENASEPH.TP2~ #0 #0 // Auren Aseph for BG2:ToB: v8
+~SARAHTOB/SETUP-SARAHTOB.TP2~ #0 #0 // Sarah NPC Romance Mod for BG2:ToB: 5
+~NINDE/NINDE.TP2~ #0 #0 // Ninde NPC Mod for BGII: v3.0
+~YVETTE/SETUP-YVETTE.TP2~ #0 #0 // Yvette Romance - BG2 Romance Character: 4.1
+~YVETTE/SETUP-YVETTE.TP2~ #0 #1 // Yvette Romance - alternative class (Pure Heartwarder): 4.1
+~ADRIAN/ADRIAN.TP2~ #0 #0 // Adrian for BGII -> Adrian is a Sorcerer: v5.0
+~ADRIAN/ADRIAN.TP2~ #0 #10 // Install optional soundset for Adrian (only in English) -> Phaelin's soundset: v5.0
+~ADRIAN/ADRIAN.TP2~ #0 #20 // Crossmod content: v5.0
+~ARATH/ARATH.TP2~ #0 #0 // Arath NPC for BGII: SoA & ToB: v4
+~ISRA_BG2/ISRA_BG2.TP2~ #0 #0 // Isra for BGII: v3
+~ISRA_BG2/ISRA_BG2.TP2~ #0 #1 // Crossmod Content: v3
+~FOUNDLING/FOUNDLING.TP2~ #0 #0 // Foundling: Between the Shades -> Yes, but don't patch the existing save games: 4.4
+~BRANWEN/SETUP-BRANWEN.TP2~ #0 #0 // Branwen BG2 NPC mod for players and modders: v3
+~BANTERPACK/SETUP-BANTERPACK.TP2~ #0 #0 // Pocket Plane Banter Pack for BG2: Shadows of Amn: v15
+~BANTERPACK/SETUP-BANTERPACK.TP2~ #0 #2 // Pocket Plane Banter Pack for BG2: Throne of Bhaal: v15
+~IEPBANTERS/IEPBANTERS.TP2~ #0 #0 // Extended NPC-NPC Interaction SoA: v5.6
+~IEPBANTERS/IEPBANTERS.TP2~ #0 #1 // Extended Minsc/Aerie Interaction ToB: v5.6
+~IEPBANTERS/IEPBANTERS.TP2~ #0 #4 // NPC Conflict Revisions: v5.6
+~IEPBANTERS/IEPBANTERS.TP2~ #0 #5 // Restored Aerie/Jaheira/Anomen interjection in Underdark: v5.6
+~VICONIA/SETUP-VICONIA.TP2~ #0 #0 // Viconia Friendship: v3.3
+~MAZZY/MAZZY.TP2~ #0 #0 // Mazzy Friendship: v3.5
+~YOSHIMO/YOSHIMO.TP2~ #0 #0 // Yoshimo Friendship Mod for BGII: SoA: v4.5
+~VALYGARFRIENDSHIP/VALYGARFRIENDSHIP.TP2~ #0 #0 // Valygar Corthala Friendship: v1.3
+~HAERDALIS_FRIENDSHIP/HAERDALIS_FRIENDSHIP.TP2~ #0 #0 // Haer'Dalis Friendship for BG2: ToB: v1.2
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 1.039
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #1 // For the Good: Additional content that might annoy an evil player.: Version 1.039
+~JANQUEST/SETUP-JANQUEST.TP2~ #1 #0 // Jan's Extended Quest
+~WILLOWISP/WILLOWISP.TP2~ #0 #0 // Will NPC, shaman stronghold and new shaman kit for BG2EE: 1.5
+~WILLOWISP/WILLOWISP.TP2~ #0 #1 // Change shaman .tlk string to remove "Ineligible for any stronghold" line: 1.5
+~WILLOWISP/WILLOWISP.TP2~ #0 #2 // New items for shamans and undead NPCs: 1.5
+~WILLOWISP/WILLOWISP.TP2~ #0 #3 // Optional: Drider and Dark Treant Enemies: 1.5
+~WILLOWISP/WILLOWISP.TP2~ #0 #4 // Crossmod Banters: 1.5
+~YOSHIMOSREMORSE/YOSHIMOSREMORSE.TP2~ #0 #0 // Yoshimo's Remorse: v2.0
+~SLANDOR/SLANDOR.TP2~ #1 #0 // The Minotaur and Lilacor: 2.0
+~TASHIA/SETUP-TASHIA.TP2~ #0 #0 // Tashia NPC Mod -> Full version (ToB required): v1.3
+~TASHIA/SETUP-TASHIA.TP2~ #0 #2 // Tashia Add-on Pack by Bri and Lord Ernie (English only, Tashia ToB Required) -> Action Style dialogues: v1.3
+~KELSEY/KELSEY.TP2~ #0 #0 // Kelsey: V6
+~KELSEY/KELSEY.TP2~ #0 #20 // Alternate portraits -> Install Alternate Kelsey portrait set #2, by Frida: V6
+~KETO/SETUP-KETO.TP2~ #0 #0 // Keto-SOA NPC V2: V5
+~KETO/SETUP-KETO.TP2~ #0 #1 // Keto/Kelsey Interaction (Requires Kelsey-SOA😞 V5
+~EVANDRA/SETUP-EVANDRA.TP2~ #0 #0 // Evandra NPC: v2.2
+~EVANDRA/SETUP-EVANDRA.TP2~ #0 #1 // Crossmod Content: v2.2
+~DARRON/DARRON.TP2~ #1 #0 // Darron: v2.0.0
+~NEPHELE/NEPHELE.TP2~ #0 #0 // Nephele NPC Mod for BGII: SoA & ToB: v2.5
+~SIRENE_BG2/SIRENE_BG2.TP2~ #0 #0 // Sirene NPC for BG2:EE
+~SIRENE_BG2/SIRENE_BG2.TP2~ #0 #1 // Choose an alternate class for Sirene? -> True Paladin
+~SKIECOST/SKIECOST.TP2~ #0 #0 // Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE: 3.2
+~SKIECOST/SKIECOST.TP2~ #0 #1 // Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC: 3.2
+~SKIECOST/SKIECOST.TP2~ #0 #2 // Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2: 3.2
+~G3ANNIVERSARY/SETUP-G3ANNIVERSARY.TP2~ #0 #0 // The Gibberlings Three Anniversary Mod: v11
+~A7-TESTYOURMETTLE/SETUP-A7-TESTYOURMETTLE.TP2~ #0 #0 // Test Your Mettle!: 1.2
+~A7-TESTYOURMETTLE/SETUP-A7-TESTYOURMETTLE.TP2~ #0 #12 // Reduced experience for killing monsters -> Reduce by 75% (recommended): 1.2
+~CROSSMODBG2/SETUP-CROSSMODBG2.TP2~ #0 #0 // Crossmod Banter Pack for Shadows of Amn: v16
+~CROSSMODBG2/SETUP-CROSSMODBG2.TP2~ #0 #1 // Crossmod Banter Pack for Throne of Bhaal: v16
+~IMOENCANDIE/SETUP-IMOENCANDIE.TP2~ #0 #0 // Imoen Can Die In Spellhold: 1
+~CLIFFKEY/SETUP-CLIFFKEY.TP2~ #0 #1 // A Mod for the Orderly - Add a Keyring to Faerun! See readme for more details about the choices below. -> Consistency Plus version: v7
+~UNOFFICIAL_ITEM_PACK/SETUP-UNOFFICIAL_ITEM_PACK.TP2~ #1 #0 // Unofficial Item Pack
+~UNOFFICIAL_ITEM_PACK/SETUP-UNOFFICIAL_ITEM_PACK.TP2~ #1 #2 // Gourmet from Underdark
+~UNOFFICIAL_ITEM_PACK/SETUP-UNOFFICIAL_ITEM_PACK.TP2~ #1 #4 // New Items
+~UNOFFICIAL_ITEM_PACK/SETUP-UNOFFICIAL_ITEM_PACK.TP2~ #1 #5 // SoD items
+~UNOFFICIAL_ITEM_PACK/SETUP-UNOFFICIAL_ITEM_PACK.TP2~ #1 #6 // Better archery shop
+~ITEM_REV/ITEM_REV.TP2~ #0 #0 // Item Revisions by Demivrgvs: V4 Beta 10 SD 15
+~HEARTWOOD/HEARTWOOD.TP2~ #0 #0 // Heart of the Wood (WeiDU version): 7.0.0
+~VALHORN/SETUP-VALHORN.TP2~ #0 #0 // Improved Horns of Valhalla: v2
+~SPELL_REV/SETUP-SPELL_REV.TP2~ #0 #0 // Spell Revisions: v4 Beta 18 sd 3
+~SPELL_REV/SETUP-SPELL_REV.TP2~ #0 #20 // Mirror Image Fix: v4 Beta 18 sd 3
+~SPELL_REV_REV/SPELL_REV_REV.TP2~ #0 #0 // Spell Revisions Patches: 1.0
+~SPELL_REV_REV/SPELL_REV_REV.TP2~ #0 #1 // Spell Revisions Tweaks: 1.0
+~SPELL_REV/SETUP-SPELL_REV.TP2~ #0 #55 // Spell Deflection blocks AoE spells: v4 Beta 18 sd 3
+~SPELL_REV/SETUP-SPELL_REV.TP2~ #0 #60 // Update Spellbooks of Joinable NPCs: v4 Beta 18 sd 3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #1500 // Include arcane spells from Icewind Dale: Enhanced Edition: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #1510 // Include divine spells from Icewind Dale: Enhanced Edition: v33.4
+~A7-TOTLM-BG2EE/A7-TOTLM-BG2EE.TP2~ #0 #0 // Trials of the Luremaster for Baldur's Gate: 3.0
+~A7-TOTLM-BG2EE/A7-TOTLM-BG2EE.TP2~ #0 #20 // Rebalance weapons and equipment: 3.0
+~A7-TOTLM-BG2EE/A7-TOTLM-BG2EE.TP2~ #0 #31 // Reduce experience from monsters and quests -> Reduce by 50 percent: 3.0
+~POISON_NO_BYPASS/SETUP-POISON_NO_BYPASS.TP2~ #0 #3 // No Weapon -> Limited Exclusions(Anti-magic, AoE, Gaze): Mirror Image or Stoneskin: 1.0
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #100 // Cleric Remix: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #103 // Install Silverstar of Selune Cleric Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #107 // Install Holy Strategist of the Red Knight Cleric Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #115 // Install Firewalker of Kossuth Cleric Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #127 // Install Feywarden of Corellon Cleric Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #406 // Install Feralan Ranger Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #409 // Install Forest Runner Ranger Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #412 // Install Justifier Ranger Kit: 8.1
+~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #415 // Install Wilderness Runner Ranger Kit: 8.1
+~SONG_AND_SILENCE/SETUP-SONG_AND_SILENCE.TP2~ #0 #0 // Changes to trueclass bards and thieves, and unmodded game kits (required for other components): v9
+~SONG_AND_SILENCE/SETUP-SONG_AND_SILENCE.TP2~ #0 #1 // Add new bardic store and thief items: v9
+~SONG_AND_SILENCE/SETUP-SONG_AND_SILENCE.TP2~ #0 #6 // Install Adventurer thief kit: v9
+~SONG_AND_SILENCE/SETUP-SONG_AND_SILENCE.TP2~ #0 #7 // Install Burglar thief kit: v9
+~RR/SETUP-RR.TP2~ #0 #2 // Thief High Level Ability revisions: v4.92
+~RR/SETUP-RR.TP2~ #0 #3 // Proper racial adjustments for thieving skills: v4.92
+~RR/SETUP-RR.TP2~ #0 #5 // Bard High Level Ability revisions: v4.92
+~RR/SETUP-RR.TP2~ #0 #7 // Additional equipment for Thieves and Bards: v4.92
+~RR/SETUP-RR.TP2~ #0 #8 // Upgradeable Equipment: v4.92
+~REFINEMENTS/SETUP-REFINEMENTS.TP2~ #0 #10 // Revised High Level Abilities -> Install revised HLAs for all classes: beta 4.30
+~BARDICWONDERS/SETUP-BARDICWONDERS.TP2~ #0 #5 // Bardic Wonders: Items
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #0 // Core Monk Revisions: 0.3
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #3 // Shining Hand Monk: 0.3
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #4 // Broken One Monk: 0.3
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #5 // Long Death Monk: 0.3
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #6 // Old Order Monk: 0.3
+~MONASTICORDERS/SETUP-MONASTICORDERS.TP2~ #0 #7 // New Monk Items: 0.3
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2105 // Add 1-Round Blindness Effect to Color Spray: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2108 // Change Protection from Petrification into 'Mirrored Eyes': 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1151 // Reduce Damage but Improve Blindness in SR's Sunscorch: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1152 // Improve Faerie Fire: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2201 // Add Missile Avoidance to Blur: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2209 // Make Luck Affect Whole Party: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2212 // Move Mirror Image to 3rd Level: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2213 // Add Lingering Effects to SR's Stinking Cloud: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2215 // Make Web Slow Instead of Hold: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2217 // Change Agannazar's Scorcher to Melf's Fiery Missiles: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2224 // Improve Glitterdust: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2251 // Add Deafening Effect On Hit to Decastave: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1202 // Make Barkskin Block One Attack Each Round: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1207 // Make Goodberry an Out-of-Combat Mass Regeneration: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1212 // Tweak Slow Poison: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1251 // Improve Damage and Damage Type of Alicorn Lance: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2305 // Make Haste and Slow Properly Cancel Each Other: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2321 // Make Spell Thrust Target Actors: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2324 // Make Hold Undead and Control Undead Bypass MR: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1323 // Improve Casting Time of Exaltation and Spiritual Clarity: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1351 // Add Faerie Fire and Slow On Hit to Moonblade: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2413 // Allow Target of Otiluke's Sphere to Use Inventory Screen: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2418 // Set Fire Shield and Acid Sheath Spells to be Breachable: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2451 // Make Shadow Monster Summons More Illusionary: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1404 // Change Neutralize Poison into 'Remove Afflictions': 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1451 // Make Smashing Wave Party-Friendly: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2508 // Improve Function of SR's Waves of Fatigue: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2518 // Change Damage Type and School of Phantom Blade: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2523 // Change Sunfire into 'Missile Storm': 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1603 // Set Blade Barrier to be Breachable: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1611 // Make Wondrous Recall Restore all 1st- and 2nd-level Spells: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1613 // Make Physical Mirror Block 1 Attack Per Three Seconds: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1614 // Make Sol's Searing Orb Easier to Throw: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2708 // Change Mantle into 'Iron Skin': 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #1710 // Add Slow Effect to Holy Word: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2808 // Set Moment of Prescience to Not Breachable: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2811 // Move Symbol: Fear to 7th Level: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2916 // Move Shapechange to 8th Level: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2915 // Move Black Blade of Disaster to 8th level: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2914 // Add Instant Death Effect to Energy Drain: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #2923 // Change Summon Planetar into Summon Noble Genie: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3000 // Set Spell Weapon APR to 2: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3010 // Add Backstab Immunity to the Ring of Danger Sense: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3020 // Proper Missile Deflection for the Gloves of Missile Snaring: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3030 // Improve Detonating Weapons: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3040 // Add Revised Barkskin to 'Skin of the Forest' Armor: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3050 // Make IR's Rod of Absorption Truly Instantaneous: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3060 // Make the Gargoyle Cloak Apply Stoneskin Instead of an AC Bonus: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3070 // Make the Dwarven Thrower Hammer Usable by Non-Dwarves: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3080 // Improve Azlaer's Harp and Methild's Harp: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #3091 // Nerf Edwin's Amulet -> Only +1 Bonus Slot per Spell Level: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #4010 // Add a Saving Throw Against Level Drain Effects: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #4031 // Increase Dragons' Hit Points -> 50% More Hit Points: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #5000 // Revised Magic Battles: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #5010 // Cure and Similar Spells Bypass Spell Protections: 1.2.1
+~POLYDISP/POLYDISP.TP2~ #0 #10 // Revised and Fixed Dispel Magic Effect: v1.00
+~POLYDISP/POLYDISP.TP2~ #0 #20 // Holy Avenger and arrows of dispelling as per PnP: v1.00
+~POLYDISP/POLYDISP.TP2~ #0 #40 // Spells of the Seventh Circle and above cannot be brought down by Dispel Magic: v1.00
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #11 // Rebalanced Spell Schools: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #1201 // Rebalanced Arcane Opposition Schools -> No Opposition Schools: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #13 // Revised Illusionary Clones: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #14 // Revised Invisibility and True Seeing: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #16 // Improved Identify spell (usable by Arcanist/Multi Sorcerers): 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #20 // Revised Dragon Disciples: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #31 // Sorcerer: Favored Soul: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #33 // Sorcerer: Sylvan Disciple: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #35 // Sorcerer: Revenant Disciple: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #37 // Sorcerer: Amorphous Disciple: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #55 // Revised Metamagic -> Metamagic spells, fill sequencers free (usable by Arcanist/Multi Sorcerers): 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #62 // Cantrips -> Level One Cantrips: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #67 // Choose-Your-Own Familiar: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #68 // Pooky's Mod: Imbue Familiars: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #71 // Sorcerer Spell Switching -> Change spells every level: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #80 // Multiclass Sorcerers: 0.9.17
+~TOMEANDBLOOD/TOMEANDBLOOD.TP2~ #0 #85 // Sorcerer Kit: Mana Sorcerer: 0.9.17
+~A7#IMPROVEDSHAMANICDANCE/SETUP-A7#IMPROVEDSHAMANICDANCE.TP2~ #0 #0 // Improved Shamanic Dance: 3.1
+~A7#IMPROVEDSHAMANICDANCE/SETUP-A7#IMPROVEDSHAMANICDANCE.TP2~ #0 #10 // Expanded Shamanic Dance for high level characters: 3.1
+~ITEM_REV/ITEM_REV.TP2~ #0 #1030 // Store Revisions: V4 Beta 10 SD 15
+~MSFM/MSFM.TP2~ #0 #2 // Add Staff of Wizardry: v1.5
+~MSFM/MSFM.TP2~ #0 #3 // Add custom inventory animation to the Staff of Wizardry: v1.5
+~MSFM/MSFM.TP2~ #0 #8 // Add ranged attack and a tweak to the Staff of the Magi -> Add ranged attack + replace invisibility with increase of casting speed: v1.5
+~MSFM/MSFM.TP2~ #0 #10 // Add circlets: v1.5
+~MSFM/MSFM.TP2~ #0 #12 // Add Wand Case: v1.5
+~ITEM_REV/ITEM_REV.TP2~ #0 #10 // Revised Shield Bonuses: V4 Beta 10 SD 15
+~ITEM_REV/ITEM_REV.TP2~ #0 #17 // Weapon Changes: V4 Beta 10 SD 15
+~ITEM_REV/ITEM_REV.TP2~ #0 #1080 // Enchantment Doesn't Affect Speed Factor of Weapons: V4 Beta 10 SD 15
+~ITEM_REV/ITEM_REV.TP2~ #0 #19 // Revised Backstabbing -> More Weapons Usable for Backstabbing: V4 Beta 10 SD 15
+~ITEM_REV/ITEM_REV.TP2~ #0 #1200 // Revised Critical Hit Aversion: V4 Beta 10 SD 15
+~ITEM_REV/ITEM_REV.TP2~ #0 #1060 // Kensai Can Wear Bracers: V4 Beta 10 SD 15
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #21 // Create a sphere system -> FnP: the Faiths & Powers original sphere system: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #31 // Install Cleric kits: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #33 // Install Druid kits: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #35 // Install Paladin kits: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #37 // Install Ranger kits: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #75 // Alter weapon usability and proficiency: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #80 // Apply sphere system: 0.79.30
+~FAITHS_AND_POWERS/FAITHS_AND_POWERS.TP2~ #0 #85 // Apply FnP kits to NPCs: 0.79.30
+~WILL_TO_POWER/WILL_TO_POWER.TP2~ #0 #200 // Add the Psionicist, rogue/psion: 1.3.1
+~WILL_TO_POWER/WILL_TO_POWER.TP2~ #0 #300 // Add the Soulblade, fighter/psion: 1.3.1
+~WILL_TO_POWER/WILL_TO_POWER.TP2~ #0 #400 // Add the Psypher, ranger/psion: 1.3.1
+~WILL_TO_POWER/WILL_TO_POWER.TP2~ #0 #500 // Add the Cerebremancer, mage/psion: 1.3.1
+~5E_SPELLCASTING/5E_SPELLCASTING.TP2~ #0 #100 // Change All Casters to 5E System: 1.1
+~5E_SPELLCASTING/5E_SPELLCASTING.TP2~ #0 #900 // Set Bonus Spell Slot Items to Work for 5E Casters: 1.1
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #200 // Feat System: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #205 // Revised Archery: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #210 // Bard Overhaul: Multiclass Bards: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #220 // Revised Multiclassing and Multiclass Kits: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #240 // Improved Rangers: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #245 // Revised Movement Bonuses (Quickstride): 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #250 // Revised Berserker and Rage: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #265 // Revised Monk Fists: 4.12.7
+~MIGHT_AND_GUILE/MIGHT_AND_GUILE.TP2~ #0 #310 // Add the Corsair (fighter kit): 4.12.7
+~FNP_MULTICLASS/FNP_MULTICLASS.TP2~ #0 #91 // Multiclass Druids: 0.79.30
+~FNP_MULTICLASS/FNP_MULTICLASS.TP2~ #0 #95 // Multiclass Cleric kits (install AFTER all other kit mods!!): 0.79.30
+~FNP_MULTICLASS/FNP_MULTICLASS.TP2~ #0 #99 // Apply FnP multiclass kits to NPCs: 0.79.30
+~LOW_MAGIC/LOW_MAGIC.TP2~ #0 #402 // Increase Scroll Prices -> Increase Based on Spell Level: v0.6
+~LOW_MAGIC/LOW_MAGIC.TP2~ #0 #502 // Changes to Wands -> Reduced Wand Charges: v0.6
+~HOUSETWEAKS/HOUSETWEAKS.TP2~ #0 #4 // House Tweaks: Monk Can Use Quarterstaves: 1.9
+~HOUSETWEAKS/HOUSETWEAKS.TP2~ #0 #9 // House Tweaks: Good-Aligned Roleplay Rewards (BG2:EE😞 1.9
+~HOUSETWEAKS/HOUSETWEAKS.TP2~ #0 #12 // House Tweaks: Useful Plot Items: 1.9
+~HOUSETWEAKS/HOUSETWEAKS.TP2~ #0 #16 // House Tweaks: Hoodless Thief Avatars: 1.9
+~POLYVORP/POLYVORP.TP2~ #0 #10 // Rebalanced Vorpal Weapons (affects enemies and players): v1.00
+~POLYVORP/POLYVORP.TP2~ #0 #20 // Make all Dragons immune to Vorpal hits (previously some were, with default rebalancing none are): v1.00
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #10 // Remove Helmet Animations: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #30 // Change Nalia's Avatar to Thief: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #182 // Unique Containers -> Unique icons and names: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #200 // Remove Blur Effect from Items, e.g. Cloack of Displacement: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1030 // Reveal Wilderness Areas Before Chapter Six: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1040 // Improved Athkatlan City Guard: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1080 // Add Bags of Holding: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1340 // Make the Planar Sphere Stronghold Available to All Classes: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1341 // Make the de'Arnise Keep Stronghold Available to All Classes: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1345 // Make the Noble Order of the Radiant Heart Stronghold Available to All Classes: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1347 // Make the Imnesvale Cabin Stronghold Available to All Classes: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1180 // Female Edwina: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1220 // Allow Cromwell to Upgrade Watcher's Keep Items: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1226 // Adjust Cromwell's Forging Time -> Eight hours: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1230 // Allow Cespenar to Use Cromwell Recipes: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2020 // Two-Handed Bastard Swords: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2080 // Delay High Level Abilities: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2140 // Expanded Dual-Class Options: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2151 // Wear Multiple Protection Items -> No Restrictions: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2339 // Remove Summoning Cap for Regular Summons: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2371 // Alter Dual-class Restrictions -> Allow non-humans to dual-class: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2410 // Druids Use 3E Alignment Restrictions: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2530 // Lightning Bolts Don't Bounce (Angel): v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2540 // Speed Up de'Arnise Keep Stronghold Quests: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3010 // Maximum HP for NPCs (the bigg) -> For All Creatures in Game: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3030 // Easy Spell Learning -> 100% Learn Spells: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3060 // Remove "You Must Gather Your Party..." Sound (Weimer): v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3121 // Happy Patch (Party NPCs do not complain about reputation) -> NPCs Can Be Angry About Reputation but Never Leave (Salk): v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3124 // Stop Haer'Dalis-Aerie romance from starting: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3170 // No Drow Avatars On Party In Underdark: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3175 // Disable Romances: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3276 // Recoverable throwing weapons -> 75% chance to recover after a successful hit, vs. enemies only: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3280 // Give Every Class/Kit Four Weapon Slots: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3310 // Start New Games with Party AI Turned Off: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3320 // No Depreciation in Stores: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4010 // Improved Fate Spirit Summoning: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4020 // ToB-Style NPCs: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4050 // Change Jaheira to Neutral Good: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4100 // Change Korgan to Neutral Evil: v9
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4140 // Don't Auto-Assign Advanced AI Scripting to Party: v9
+~METWEAKS/METWEAKS.TP2~ #0 #6 // Give Monks a cooler Deflect Missiles ability
+~TRAP_OVERHAUL/TRAP_OVERHAUL.TP2~ #0 #110 // Trap Overhaul -> Monk Trap Evasion, Fast Trap Detection: 0.14
+~ENCHANT/ENCHANT.TP2~ #0 #0 // Enchant the Missile Launchers
+~SCROLLCASTERLEVELMOD/SCROLLCASTERLEVELMOD.TP2~ #0 #0 // Scroll Caster Level Mod: v1
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #100 // IWO - Yet Another Revised Armor System: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #101 // IWO - Aesthetic & Enchantment Tweaks -> Standardize Enchanted Equipment: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #102 // IWO - Functional Weapon Tweaks: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #109 // IWO - All Potions Usable by Any Class: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #122 // WPO - Systemic Proficiency Changes: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #125 // WPO - APR on Spec: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #160 // STO - Saving Throw Overhaul: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #200 // SBO - Stat Bonus Overhaul: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #201 // SBO - Stat-based Bonus Spells: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #202 // SBO - Full Strength for 2-Hand Weapons Only: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #206 // SBO - Hit Dice Overhaul -> Generous (above-average) hit points: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #210 // XPO - Slower, standardized XP Tables: v5.33.2
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3041 // Reduce the number of Arrows of Dispelling in stores -> Stores sell a maximum of 5 Arrows of Dispelling: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3505 // Wider selection of random scrolls: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3540 // Reduce the power of Inquisitors' Dispel Magic -> Inquisitors dispel at 1.5 x their level (not twice their level): v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3580 // Restoration and Lesser Restoration spells heal ability-score damage: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4051 // Decrease the rate at which reputation improves -> Reputation increases at about 1/2 the normal rate: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4171 // Increase the price asked by Gaelan Bayle -> Gaelan wants 60,000 gold pieces: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5900 // Initialise AI components (required for all tactical and AI components): v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6000 // Smarter general AI: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6010 // Better calls for help: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6030 // Smarter Mages: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6040 // Smarter Priests: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6100 // Potions for NPCs: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6200 // Improved Spiders: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6810 // Smarter Gromnir: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8000 // Make the starting dungeon slightly harder: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8020 // Spellcasting Demiliches: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8050 // Improved Random Encounters: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8130 // Rebalanced troll regeneration: v33.4
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8190 // Improved Minor Encounters: v33.4
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #5022 // Breachy Breach -> Breachier Breach and Modified Rakshasa: 1.2.1
+~D5_RANDOM_TWEAKS/D5_RANDOM_TWEAKS.TP2~ #0 #5035 // Modify Pierce Shield -> Pierce Shield Removes Spell Shield and Dispelling Screen: 1.2.1
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #115 // Allow Mages to scribe memorized spells onto scrolls -> Scrolls can be scribed everywhere: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #120 // Restore innate disease immunity to Paladins: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #125 // Rangers' Animal Empathy improves with experience: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #130 // Additional racial traits for Dwarves: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #140 // Additional racial traits for Gnomes: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #202 // Revised Bhaalpowers -> Enhance the Bhaalpowers and standardize their casting time: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #218 // Regain Bhaalpowers in ToB: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #301 // Change the appearance of Valygar's armor: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #302 // Change the appearance of the Robe of Vecna: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #500 // Slightly expanded storage capacity for containers -> Use the recommended storage capacity value (999): v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #510 // Expanded temple services: v4.53
+~KLATU/SETUP-KLATU.TP2~ #0 #1000 // The Gloves of Goodman Hayes: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #1050 // The Manual of War: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #1040 // Appropriate XP Rewards for Cowled Enforcers: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2010 // Fix Wild Mage Items and Spells: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2030 // Standardize Creature Immunities and Abilities: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2040 // Standardize Poison Immunity: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2050 // Free Action does not Prevent Haste or Movement Rate Bonus: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2170 // Reputation has no Effect on Store Prices: 1.5
+~KLATU/SETUP-KLATU.TP2~ #0 #2180 // Charisma has a stronger Effect on Store Prices: 1.5
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #2123 // XPO - No Murder XP -> kills give half XP: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #228 // XPO - Choose SoA Starting XP -> 240,000: v5.33.2
+~SCALES_OF_BALANCE/SCALES_OF_BALANCE.TP2~ #0 #180 // MRO - Magic Resistance Overhaul: v5.33.2
+~D5_LOWER_DC_REQ/D5_LOWER_DC_REQ.TP2~ #0 #0 // equalize stats required to dual-class
+~PPE/SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.01
+~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.01
+~TB#TWEAKS/TB#TWEAKS.TP2~ #0 #9150 // Mages drop spellbooks. -> 25% of mages drop spellbooks, spellbooks contain 25% of memorized spells.: TB#Tweaks, V 2.61
+~A7-TEXTURECONVERT/SETUP-A7-TEXTURECONVERT.TP2~ #0 #6 // Convert PVRZ files -> PVRTC 4bpp: Override files only (iOS recommended): 3.3
+~NPC_EE/NPC_EE.TP2~ #0 #121 // Choose a class for Jaheira -> Make Jaheira a druid: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #161 // Make Minsc a fighter: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #242 // Make Branwen a multiclass fighter/cleric: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #483 // Choose a class for Xan -> Make Xan a fighter/mage: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #621 // Make Neera a sorcerer: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #682 // Make Yoshimo a multiclass fighter/thief: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #721 // Choose a class for Nalia -> Make Nalia a thief: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #902 // Make Fade a multiclass mage/thief: v4.4.2
+~NPC_EE/NPC_EE.TP2~ #0 #2000 // NPC kit choices: v4.4.2
+~DUAL_TO_KIT/SETUP-DUAL_TO_KIT.TP2~ #0 #0 // Enable Dualclassing into Kits: 0.24
+~DUAL_TO_KIT/SETUP-DUAL_TO_KIT.TP2~ #0 #1 // Grant second-class Specialists their Bonus Spell Slots: 0.24
+~DUAL_TO_KIT/SETUP-DUAL_TO_KIT.TP2~ #0 #2 // Grant second-class Kits their Proper Proficiency Selection: 0.24
+~EE_COSMETIC_ENHANCEMENTS/EE_COSMETIC_ENHANCEMENTS.TP2~ #0 #0 // Item cosmetic enhancements: Includes new icons, projectiles, recoloring, and addition of pulse and solid glows: v1.0.0
+~EE_COSMETIC_ENHANCEMENTS/EE_COSMETIC_ENHANCEMENTS.TP2~ #0 #4 // Remove pulse glows from all armor(armor, helmets, shields): v1.0.0
+~EE_COSMETIC_ENHANCEMENTS/EE_COSMETIC_ENHANCEMENTS.TP2~ #0 #17 // IWD-style animations for Nishruu and Hakaeshar: v1.0.0
+~EE_COSMETIC_ENHANCEMENTS/EE_COSMETIC_ENHANCEMENTS.TP2~ #0 #21 // IWD-style Umber Hulks and Umber Hulk Elders: v1.0.0
+~EE_COSMETIC_ENHANCEMENTS/EE_COSMETIC_ENHANCEMENTS.TP2~ #0 #22 // Improved slime-type monster animations: v1.0.0
+~BETTER_SPELL_VISUALS/BETTER_SPELL_VISUALS.TP2~ #0 #10 // Better Visual Feedback from Spell and Combat Protections: 1 
