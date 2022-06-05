@@ -20,7 +20,7 @@ Subtledoctor install order provided on 2022-06-04 with [readme](https://github.c
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
-Subtledoctor install order provided on 2022-06-04 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/WeiDU-BG2EE-2022-06-04.log)
+Subtledoctor install order provided on 2022-06-04 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/WeiDU-BG2EE-2022-06-04.log)
 
 ## Enhanced Edition Trilogy (EET) WeiDU Logs
 _* EEex is installed, so the game needs to be launched using the InfinityLoader.exe instead of the normal executable._
