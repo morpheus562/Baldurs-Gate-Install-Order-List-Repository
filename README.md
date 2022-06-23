@@ -12,6 +12,10 @@ My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discus
 
 Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
 
+## Other Tutorial Videos
+
+Coredumped mod installation Youtube tutorial - [Baldur's Gate - Mod Installation Guide](https://www.youtube.com/watch?v=Dpumgv99_iI)
+
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
 Chitown Willie install order on 2022-04-28 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/chitownwillie/WeiDU-BGEE-2022-04-28.log)
