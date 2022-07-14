@@ -283,9 +283,6 @@
 ~A7#IMPROVEDARCHER\A7#IMPROVEDARCHER.TP2~ #0 #100 // Add +4 arrows, bolts and powerful bows to the game: v4.0
 ~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2250 // Un-Nerfed Sorcerer Spell Progression Table: v14
 ~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2261 // Alter Mage Spell Progression Table -> PnP table: v14
-~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #601 // Install Rashemaar Berserker Kit for Rangers -> Assign kit to Minsc: v0.8.1-alpha
-~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #610 // Install Psi Warrior Kit for Fighters: v0.8.1-alpha
-~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #620 // Install Eldritch Scion Kit for Sorcerers: v0.8.1-alpha
 ~MIGHT_AND_GUILE\MIGHT_AND_GUILE.TP2~ #0 #230 // Revised Stalker: 4.16
 ~MIGHT_AND_GUILE\MIGHT_AND_GUILE.TP2~ #0 #235 // Revised Beastmaster: 4.16
 ~MIGHT_AND_GUILE\MIGHT_AND_GUILE.TP2~ #0 #240 // Improved Rangers: 4.16
@@ -303,15 +300,18 @@
 ~KLATU\SETUP-KLATU.TP2~ #0 #2080 // Drop Equipment on Disintegration: 1.7
 ~KLATU\SETUP-KLATU.TP2~ #0 #2090 // Drop Equipment on Petrification: 1.7
 ~KLATU\SETUP-KLATU.TP2~ #0 #2100 // Drop Equipment on Imprisonment: 1.7
+~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #17 // Install Forgotten Armament Items -> Update Existing Items in Addition to Adding New Items: v0.7.1-beta
+~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #11 // Add Breach Scrolls to Sorcerous Sundries: v0.7.1-beta
+~HOUSERULES\SETUP-HOUSERULES.TP2~ #0 #14 // Allow Kensai to Use Bracers: v1.0
+~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #601 // Install Rashemaar Berserker Kit for Rangers -> Assign kit to Minsc: v0.8.1-alpha
+~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #610 // Install Psi Warrior Kit for Fighters: v0.8.1-alpha
+~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #620 // Install Eldritch Scion Kit for Sorcerers: v0.8.1-alpha
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v4
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #70 // IWD Class Updates: Druid: Use IWD Shapeshifting and Ability Progression: v4
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #71 // IWD Class Updates: Druid: Allow Elves to be Druids: v4
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #160 // IWD Class Updates: Paladin: Use IWD Spell Progression: v4
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #170 // IWD Class Updates: Ranger: Use IWD Spell Progression: v4
 ~IWDIFICATION\SETUP-IWDIFICATION.TP2~ #0 #120 // IWD Class Updates: Thief: Evasion: v4
-~HOUSERULES\SETUP-HOUSERULES.TP2~ #0 #14 // Allow Kensai to Use Bracers: v1.0
-~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #17 // Install Forgotten Armament Items -> Update Existing Items in Addition to Adding New Items: v0.7.1-beta
-~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #11 // Add Breach Scrolls to Sorcerous Sundries: v0.7.1-beta
 ~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #50 // Avatar Morphing Script: v14
 ~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #60 // Weapon Animation Tweaks: v14
 ~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v14
