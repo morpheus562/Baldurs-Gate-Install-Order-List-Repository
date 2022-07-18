@@ -139,7 +139,6 @@
 ~ARTISANSKITPACK\ARTISANSKITPACK.TP2~ #0 #9001 // Artisan's Kitpack: Warhorn Shaman Kit: 2.5
 ~ARTISANSKITPACK\ARTISANSKITPACK.TP2~ #0 #20000 // Artisan's Kitpack: Eldritch Knight (Fighter / Mage Kit): 2.5
 ~ARTISANSKITPACK\ARTISANSKITPACK.TP2~ #0 #20001 // Artisan's Kitpack: Arcane Trickster (Mage / Thief Kit): 2.5
-~HOUSERULES\SETUP-HOUSERULES.TP2~ #0 #3 // Give Sarevok a Proper Deathbringer Kit: v1.0
 ~HERTHIMONEY\HERTHIMONEY.TP2~ #1 #0 // Component 1. Interjections & Mini-quests (by Austin & Arcanecoast Team): 3.6
 ~HERTHIMONEY\HERTHIMONEY.TP2~ #1 #10 // Component 2. First Calimport Bank Pack (by Scheele & Austin & Arcanecoast Team): 3.6
 ~HERTHIMONEY\HERTHIMONEY.TP2~ #1 #20 // Component 3. Shadow-Covered Love & Death (by Alisia & Austin): 3.6
@@ -302,7 +301,6 @@
 ~KLATU\SETUP-KLATU.TP2~ #0 #2100 // Drop Equipment on Imprisonment: 1.7
 ~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #17 // Install Forgotten Armament Items -> Update Existing Items in Addition to Adding New Items: v0.7.1-beta
 ~FORGOTTEN-ARMAMENT\FORGOTTEN-ARMAMENT.TP2~ #0 #11 // Add Breach Scrolls to Sorcerous Sundries: v0.7.1-beta
-~HOUSERULES\SETUP-HOUSERULES.TP2~ #0 #14 // Allow Kensai to Use Bracers: v1.0
 ~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #601 // Install Rashemaar Berserker Kit for Rangers -> Assign kit to Minsc: v0.8.1-alpha
 ~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #610 // Install Psi Warrior Kit for Fighters: v0.8.1-alpha
 ~SKILLS-AND-ABILITIES\SKILLS-AND-ABILITIES.TP2~ #0 #620 // Install Eldritch Scion Kit for Sorcerers: v0.8.1-alpha
