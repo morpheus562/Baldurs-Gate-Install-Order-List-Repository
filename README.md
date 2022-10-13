@@ -41,3 +41,4 @@ morpheus562 [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-L
 - Installed on 2022-07-09: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-BGEE-2022-07-09.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-EET-2022-07-09.log)_*_
 
 ahungry [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/ahungry/README.md)
+- Installed on 2022-10-12: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ahungry/WeiDU-BGEE-2022-10-12.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ahungry/WeiDU-EET-2022-10-12.log)_*_
