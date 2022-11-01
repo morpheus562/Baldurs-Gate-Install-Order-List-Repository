@@ -10,12 +10,12 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
 
-Mod location repository - [Awesome-BGMods](https://ahungry.github.io/awesome-bgmods/)
+Ahungry mod location repository - [Awesome-BGMods](https://ahungry.github.io/awesome-bgmods/)
 
 ## Tutorial Videos
 
 
-Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
+Morpheus562 Project Infinity Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
 
 Coredumped mod installation Youtube tutorial - [Baldur's Gate - Mod Installation Guide](https://www.youtube.com/watch?v=Dpumgv99_iI)
 
