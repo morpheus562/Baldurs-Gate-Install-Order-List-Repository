@@ -6,13 +6,16 @@ This Repository is a collection of user submitted WeiDU logs for Baldurs Gate: E
 ## Request to Add Your WeiDU Log
 To request to submit your WeiDU log(s), please create a push request. You will need to create a unique folder in the [User Submitted WeiDU Logs](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/tree/main/user-submitted-weidu-logs) that will be named after your username (i.e. morpheus562). In your unique folder place your WeiDU logs with the following nomenclature: "WeiDU-<game (i.e. BGEE, BG2EE, EET)>-YYYY-MM-DD.log" where YYYY-MM-DD is the year, month, and day the install was completed. Examples include: WeiDU-BGEE-2022-01-05.log and WeiDU-EET-2022-01-05.log. If you are having difficulties creating a push request, please feel free to reach out on the [forum discussion](https://www.gibberlings3.net/forums/topic/33931-baldurs-gate-install-order-list-repository/) and I will be happy to assist with uploading your WeiDU log.
 
-## Mod Manager
+## Mod Resources
 
 My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
 
-Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
+Mod location repository - [Awesome-BGMods](https://ahungry.github.io/awesome-bgmods/)
 
-## Other Tutorial Videos
+## Tutorial Videos
+
+
+Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
 
 Coredumped mod installation Youtube tutorial - [Baldur's Gate - Mod Installation Guide](https://www.youtube.com/watch?v=Dpumgv99_iI)
 
