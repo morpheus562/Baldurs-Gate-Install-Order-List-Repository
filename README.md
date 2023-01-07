@@ -46,3 +46,9 @@ morpheus562 [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-L
 
 ahungry [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/ahungry/README.md)
 - Installed on 2022-10-12: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ahungry/WeiDU-BGEE-2022-10-12.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ahungry/WeiDU-EET-2022-10-12.log)
+
+## Icewind Dale: Enhanced Edition WeiDU Logs
+_* EEex is installed, so the game needs to be launched using the InfinityLoader.exe instead of the normal executable._
+
+morpheus562 [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/readme.md)
+- Installed on 2022-12-12: [IWDEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-IWDEE-2022-12-12.log)
