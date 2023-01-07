@@ -1,0 +1,137 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~LEUI-IWDEE/LEUI-IWDEE.TP2~ #0 #0 // lefreut's Enhanced UI - Core component: 2.0
+~UB_IWD/SETUP-UB_IWD.TP2~ #0 #700 // Actual Shadows in Vale of Shadows [Graion Dilach]: v11
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #100 // Install Battle Master Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #130 // Install Dragoon Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #110 // Install Psi Warrior Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #120 // Install Shield Breaker Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #200 // Install Rashemaar Berserker Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #210 // Install Champion of the Wild Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #300 // Install Champion of the Silver Flame: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #310 // Install Templar Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #900 // Install Eldritch Scion Kit: v0.1
+~MORPHEUS562-S-KITPACK/MORPHEUS562-S-KITPACK.TP2~ #0 #1100 // Install Stormlord Multiclass Kit for Fighter/Druids: v0.1
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #2 // Bardic Wonders: Skald Overhaul
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #3 // Bardic Wonders: Abettor of Mask Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #4 // Bardic Wonders: Dancer Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #5 // Bardic Wonders: Darkbloom Bard Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #6 // Bardic Wonders: Storm Drummer Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #7 // Bardic Wonders: Troubadour Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #8 // Bardic Wonders: Deathsinger Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #9 // Bardic Wonders: Strategist Kit
+~BARDICWONDERS/BARDICWONDERS.TP2~ #0 #11 // Bardic Wonders: Inspirations
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1001 // Artisan's Kitpack: Arcane Archer (Fighter/Mage): 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1008 // Artisan's Kitpack: Siegemaster Fighter Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1100 // Artisan's Kitpack: Fighter Overhaul: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2002 // Artisan's Kitpack: Dark Hunter Ranger Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3001 // Artisan's Kitpack: Divine Champion Paladin Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3002 // Artisan's Kitpack: Mystic Fire Paladin Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #3005 // Artisan's Kitpack: Martyr Paladin Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7002 // Artisan's Kitpack: Magekiller Thief Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7003 // Artisan's Kitpack: Trickster Thief Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7005 // Artisan's Kitpack: Invisible Blade Thief Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #9001 // Artisan's Kitpack: Warhorn Shaman Kit: 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #20000 // Artisan's Kitpack: Eldritch Knight (Fighter / Mage Kit): 3.0
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #20001 // Artisan's Kitpack: Arcane Trickster (Mage / Thief Kit): 3.0
+~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #0 #10 // NWN2 Style Weapons: v1.3
+~FORGOTTEN-ARMAMENT/FORGOTTEN-ARMAMENT.TP2~ #0 #4 // Update Items Setting an Ability Score to Increment the Increase: v1.3
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #50 // Avatar Morphing Script: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #60 // Weapon Animation Tweaks: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #170 // Unique Icons [Lava] -> Only replace icons that aren't already unique: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #191 // Use Character Colors Instead of Item Colors -> For non-magical shields and helmets: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #200 // Remove Annoying Visual Effects from Equipped Items -> Remove blur effect: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #230 // Restore IWD Tooltips: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1070 // Improved Multi-Player Kick-Out Dialogues: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1120 // Stores Sell Higher Stacks of Items: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1300 // Make Heart of Winter Accessible at Any Level: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2060 // Weapon Styles for All: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2090 // Change Experience Point Cap -> Remove experience cap: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2140 // Expanded Dual-Class Options: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2151 // Wear Multiple Protection Items -> No restrictions: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2170 // Cast Spells from Scrolls (and Other Items) at Character Level: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2192 // Limit Ability of Storekeepers to Identify Items -> Hybrid of both methods: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2210 // Change Grandmastery Bonuses -> True grandmastery [Baldurdash]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2220 // Change Magically Created Weapons to Zero Weight: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2240 // Un-Nerfed THAC0 Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2250 // Un-Nerfed Sorcerer Spell Progression Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2260 // Alter Mage Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2270 // Alter Bard Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2281 // Alter Cleric Spell Progression Table -> PnP table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2294 // Alter Druid Spell and Level Progression Tables -> Use cleric level progression changes with pnp druid/cleric spell table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2581 // Alter Wisdom-Based Divine Bonus Spell Table -> Use BG/BG2/IWD Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2312 // Add Save Penalties for Spells Cast by High-Level Casters -> Arcane and divine magic: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2360 // Remove Racial Restrictions for Single-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2380 // Remove Racial Restrictions for Kits: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2371 // Alter Dual-Class Restrictions -> Allow non-humans to dual-class: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2358 // Alter Multi-Class Restrictions -> Install options one and three (everyone can multi-class anything they can single-class): v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2420 // Loosen Equipment Restrictions for Cleric Multi- and Dual-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2430 // Change Equipment Restrictions for Druid Multi- and Dual-Classes -> Loosen equipment restrictions for druid multi- and dual-classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2440 // Everyone Gets Bonus APR from Specialization [subtledoctor]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2520 // Allow Mages to Use Bucklers and Thieves to Use Small Shields [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2999 // Max HP at Level One: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3000 // Higher HP on Level Up -> Maximum: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3010 // Maximum HP Creatures [the bigg] -> For all creatures in game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3031 // Easy Spell Learning -> 100% learn spells and no maximum cap: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3040 // Make Bags of Holding Bottomless: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3050 // Remove Fatigue from Restoration Spells: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3070 // Change Effect of Reputation on Store Prices -> Low Reputation Store Discount [Sabre]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3083 // Increase Ammo Stack Size -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3093 // Increase Jewelry, Gem, and Miscellaneous Item Stacks -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3103 // Increase Potion Stacking -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3113 // Increase Scroll Stacking -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3121 // Happy Patch - Alter How Party NPCs Complain About Reputation -> NPCs can be angry about reputation but never leave [Salk]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3280 // Give Every Class/Kit Four Weapon Slots: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3320 // No Depreciation in Stores: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4020 // ToB-Style NPCs: v16
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #125 // Rangers' Animal Empathy improves with experience: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #130 // Additional racial traits for Dwarves: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #140 // Additional racial traits for Gnomes: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #185 // PnP Fey creatures: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #186 // Revised Call Woodland Beings spell: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #201 // Instant casting for warrior innates: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #210 // Restore the Dispel Magic vulnerability to Nishruu and Hakeashars: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #212 // Make alignment detection spells more accurate: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #213 // Expanded saving throw bonus tables for Dwarves, Gnomes and Halflings: v4.53
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #261 // Altered XP rewards from locks, traps and scrolls -> Improved (lowered) XP rewards from locks, traps and scrolls: v4.53
+~PPE/SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.01
+~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.01
+~EEEX/EEEX.TP2~ #0 #0 // EEex: master
+~EEEX/EEEX.TP2~ #0 #1 // Enable effect menu module - LShift-on-hover to view spells affecting creature: master
+~EEEX/EEEX.TP2~ #0 #2 // Enable timer module - Visual indicators for modal actions, contingencies, and spell/item cooldowns: master
+~EEEX/EEEX.TP2~ #0 #3 // Timer module - Show modal actions (red bar): master
+~EEEX/EEEX.TP2~ #0 #4 // Timer module - Show contingencies (green bar): master
+~EEEX/EEEX.TP2~ #0 #5 // Timer module - Show spell/item cooldowns (cyan bar): master
+~BUBB_SPELL_MENU_EXTENDED/SETUP-BUBB_SPELL_MENU_EXTENDED.TP2~ #0 #0 // Bubb's Spell Menu Extended: 4.1
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #730 // Add HLAs to IWDEE (Lefreut UI Required): v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #710 // Add New HLAs for ALL Classes and Kits: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #720 // Update Existing HLAs: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #12 // Update Skills for Bards -> Add Lockpicking and Find/Disarm Traps: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #130 // Allow Blade Kit to Specialize in Melee Weapons: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #150 // Add New Fighter Abilities: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #142 // Allow Fighter Multiclasses to Achieve Higher than Specialized (2 pips) in Weapons Proficiencies -> Allow Fighter Multiclasses to Achieve High Master (4 pips) in Weapon Proficiencies: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #20 // Update Skills for Monks: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #70 // Add New Monk Abilities: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #50 // Add Detect Illusion for Wizard Slayer: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #80 // Add New Paladin Abilities: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #100 // Allow Inquisitor Kit to Cast Divine Spells: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #120 // Turn Undead Overhaul: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #160 // Adjust Cleric/Thief Actionbar: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #300 // Update Weapon Fighting Styles: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #313 // Overhaul Proficiency System - Add New Proficiencies and Weapon Styles -> NWN2 Style Proficiency Progression: v1.0-beta
+~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #400 // 2H Weapon Additional Strength Bonus: v1.0-beta
+~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #0 #15 // Install Enhanced Powergaming Scripts -> Accelerated Pre-Buffing Speed: v11.0
+~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #0 #9 // Install Enhanced Scripts for Summoned Celestials: v11.0
+~ENHANCED-POWERGAMING-SCRIPTS/ENHANCED-POWERGAMING-SCRIPTS.TP2~ #0 #10 // Install Enhanced Scripts for Simulacrum: v11.0
