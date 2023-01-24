@@ -25,11 +25,15 @@ Chitown Willie install order on 2022-04-28 for [BGEE](https://raw.githubusercont
 
 Coredumped install order provided on 2022-06-23 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/coredumped/WeiDU-BGEE-2022-06-21.log)
 
+dark0dave install order provided on 2023-01-23 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/dark0dave/README.md) for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/dark0dave/current_bg1_weidu.log)
+
 Subtledoctor install order provided on 2022-06-04 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/WeiDU-BGEE-2022-06-04.log)
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
 Coredumped install order provided on 2022-06-23 for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/coredumped/WeiDU-BG2EE-2022-06-21.log)
+
+dark0dave install order provided on 2023-01-23 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/dark0dave/README.md) for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/dark0dave/current_bg2_weidu.log)
 
 Subtledoctor install order provided on 2022-06-04 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/WeiDU-BG2EE-2022-06-04.log)
 
