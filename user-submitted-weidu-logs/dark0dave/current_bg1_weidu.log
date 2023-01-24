@@ -1,0 +1,110 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #10 // Remove Helmet Animations: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #60 // Weapon Animation Tweaks: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #70 // Icewind Dale Casting Graphics [Andyr]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #160 // Make Magic Shields Glow [plainab/grogerson]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #171 // Unique Icons [Lava] -> Replace all icons: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #181 // Unique Containers [Miloch] -> Unique icons only: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #190 // Use Character Colors Instead of Item Colors -> For all shields and helmets: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1036 // Make Cloakwood Areas Available Before Completing the Bandit Camp -> All of Cloakwood except the mines: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1070 // Improved Multi-Player Kick-Out Dialogues: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1075 // Send BioWare NPCs to an Inn [DavidW/Zed Nocear]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1080 // Add Bags of Holding: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1100 // Reveal City Maps When Entering Area: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1120 // Stores Sell Higher Stacks of Items: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1150 // Shapeshifter Rebalancing [Weimer]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1251 // Move NPCs to Convenient Locations: Move Alora to Gullykin: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1252 // Move NPCs to Convenient Locations: Move Eldoth to the Coast Way: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1253 // Move NPCs to Convenient Locations: Move Quayle to the Nashkel Carnival: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1254 // Move NPCs to Convenient Locations: Move Shar-Teel to North Nashkel Road: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1255 // Move NPCs to Convenient Locations: Move Tiax to Beregost: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1256 // Move NPCs to Convenient Locations: Move Viconia to South Beregost Road: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2090 // Change Experience Point Cap -> Remove experience cap: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2150 // Wear Multiple Protection Items -> PnP restrictions: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2170 // Cast Spells from Scrolls (and Other Items) at Character Level: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2210 // Change Grandmastery Bonuses -> True grandmastery [Baldurdash]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2250 // Un-Nerfed Sorcerer Spell Progression Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2260 // Alter Mage Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2270 // Alter Bard Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2280 // Alter Cleric Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2290 // Alter Druid Spell and Level Progression Tables -> No level progression changes, un-nerfed druid spell table only [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2312 // Add Save Penalties for Spells Cast by High-Level Casters -> Arcane and divine magic: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2339 // Remove Summoning Cap for Regular Summons: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2371 // Alter Dual-Class Restrictions -> Allow non-humans to dual-class: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2350 // Alter Multi-Class Restrictions -> Allow humans to multi-class: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2390 // Alter Paladin Spell Progression Table -> Paladins Use Icewind Dale-Heart of Winter Spell Tables [grogerson]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2400 // Alter Ranger Spell Progression Table -> Rangers Use Icewind Dale-Heart of Winter Spell Tables [grogerson]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2999 // Max HP at Level One: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3000 // Higher HP on Level Up -> Maximum: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3010 // Maximum HP Creatures [the bigg] -> For all creatures in game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3083 // Increase Ammo Stack Size -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3176 // Accelerate/Decelerate Romances: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3230 // Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3290 // Personalize Automatic Save Names -> Use scheme: 000000000-Protagonist-Save-Name: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3350 // Create Interval Saves [argent77] -> Every 15 minutes (one save only): v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4020 // ToB-Style NPCs: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4031 // Consistent Stats: Edwin -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4041 // Consistent Stats: Jaheira -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4061 // Consistent Stats: Minsc -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4071 // Consistent Stats: Viconia -> Use BG2 values: v16
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #1500 // Include arcane spells from Icewind Dale: Enhanced Edition: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #1510 // Include divine spells from Icewind Dale: Enhanced Edition: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3505 // Wider selection of random scrolls: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3540 // Reduce the power of Inquisitors' Dispel Magic -> Inquisitors dispel at 1.5 x their level (not twice their level): 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3550 // Increase the power of Cure Wounds and Cause Wounds spells to the level found in 3rd Edition D&D -> Spells heal or inflict a random amount of damage (1d8 per level of the spell, plus 1 point per caster level, to a maximum of 5 points per spell level): 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3580 // Restoration and Lesser Restoration spells heal ability-score damage: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4000 // Faster Bears: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4020 // More realistic wolves and wild dogs: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4030 // Improved shapeshifting: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5080 // Improved textscreens in Tales of the Sword Coast: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5900 // Initialise AI components (required for all tactical and AI components): 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6000 // Smarter general AI: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6010 // Better calls for help: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6030 // Smarter Mages: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6040 // Smarter Priests: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6100 // Potions for NPCs: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6200 // Improved Spiders: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6300 // Smarter sirines and dryads: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6310 // Slightly smarter carrion crawlers: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6320 // Smarter basilisks: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7000 // Improved doppelgangers: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7010 // Tougher Black Talons and Iron Throne guards: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7020 // Improved deployment for parties of assassins: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7030 // Improved kobolds: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7040 // Relocated bounty hunters: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7050 // Improved Ulcaster: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7060 // Improved Balduran's Isle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7070 // Improved Durlag's Tower: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7080 // Improved Demon Cultists: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7090 // Improved Cloakwood Druids: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7100 // Improved Bassilus: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7110 // Improved Drasus party: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7130 // Improved Red Wizards: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7140 // Improved Undercity assassins: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7200 // Tougher chapter-two end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7210 // Tougher chapter-three end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7220 // Tougher chapter-four end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7230 // Tougher chapter-five end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7250 // Improved final battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7900 // Improved minor encounters: 34.3
+~UB/SETUP-UB.TP2~ #0 #22 // Justifier Kit: v29
+~UB/SETUP-UB.TP2~ #0 #23 // Feralan Kit: v29
+~BG1NPC/BG1NPC.TP2~ #0 #0 // The BG1 NPC Project: Required Modifications: v30
+~BG1NPC/BG1NPC.TP2~ #0 #10 // The BG1 NPC Project: Banters, Quests, and Interjections: v30
+~BG1NPC/BG1NPC.TP2~ #0 #111 // BGEE Banter Timing Tweak -> Banter Timing: Fast (about 20 minutes between banter dialogs): v30
+~PPE/SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #302 // Change Imoen portraits -> BG2 Portrait: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #311 // Change Viconia portraits -> SOD Portrait: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #322 // Change Jaheira portraits -> BG2 Portrait: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #332 // Change Minsc portraits -> BG2 Portrait: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #342 // Change Edwin portraits -> BG2 Portrait: 1.02
