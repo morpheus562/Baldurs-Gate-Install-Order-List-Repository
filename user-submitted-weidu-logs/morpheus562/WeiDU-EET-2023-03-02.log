@@ -271,6 +271,8 @@
 ~D5_RANDOM_TWEAKS\D5_RANDOM_TWEAKS.TP2~ #0 #3040 // Add Revised Barkskin to 'Skin of the Forest' Armor: 1.3.1
 ~D5_RANDOM_TWEAKS\D5_RANDOM_TWEAKS.TP2~ #0 #3080 // Improve Azlaer's Harp and Methild's Harp: 1.3.1
 ~D5_RANDOM_TWEAKS\D5_RANDOM_TWEAKS.TP2~ #0 #4010 // Add a Saving Throw Against Level Drain Effects: 1.3.1
+~CELESTIALS\SETUP-CELESTIALS.TP2~ #0 #0 // PnP Celestials: v9
+~CELESTIALS\SETUP-CELESTIALS.TP2~ #0 #1 // Deva and Planetar Animations: v9
 ~BARDICWONDERS\BARDICWONDERS.TP2~ #0 #0 // Bardic Wonders: Blade Overhaul
 ~BARDICWONDERS\BARDICWONDERS.TP2~ #0 #1 // Bardic Wonders: Jester Overhaul
 ~BARDICWONDERS\BARDICWONDERS.TP2~ #0 #2 // Bardic Wonders: Skald Overhaul
@@ -499,13 +501,13 @@
 ~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8170 // Improved Sendai's Enclave: 34.3
 ~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8180 // Improved Abazigal's Lair: 34.3
 ~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8190 // Improved Minor Encounters: 34.3
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #11 // Improved Guarded Compound in the Temple District: v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #12 // Improved Twisted Rune: v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #14 // Gebhard Blucher's Improved Demon Knights: v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #15 // Kensai Ryu's Tougher Kangaxx and Guardians: v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #6 // Kensai Ryu's Improved Crypt King: v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #29 // Morpheus562's Improved Drizzt (BGEE): v0.2-alpha
-~TACTICS-REMIX/TACTICS-REMIX.TP2~ #0 #25 // Improve All Enemies Hit Points -> Enemies Have x2 Hit Points: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #11 // Improved Guarded Compound in the Temple District: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #12 // Improved Twisted Rune: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #14 // Gebhard Blucher's Improved Demon Knights: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #15 // Kensai Ryu's Tougher Kangaxx and Guardians: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #6 // Kensai Ryu's Improved Crypt King: v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #29 // Morpheus562's Improved Drizzt (BGEE): v0.2-alpha
+~TACTICS-REMIX\TACTICS-REMIX.TP2~ #0 #25 // Improve All Enemies Hit Points -> Enemies Have x2 Hit Points: v0.2-alpha
 ~EET_END\EET_END.TP2~ #0 #0 // EET end (last mod in install order) -> Standard installation
 ~PPE\SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.01
 ~PPE\SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.01
@@ -522,7 +524,6 @@
 ~EEEX/EEEX.TP2~ #0 #4 // Timer module - Show contingencies (green bar): v0.9.19-alpha
 ~EEEX/EEEX.TP2~ #0 #5 // Timer module - Show spell/item cooldowns (cyan bar): v0.9.19-alpha
 ~EEEX/EEEX.TP2~ #0 #6 // Time step module - Advance 1 game tick on keypress: v0.9.19-alpha
-~EEEX/EEEX.TP2~ #0 #7 // Hotkey module - Edit override/B3Hotkey.lua to create advanced spell hotkeys: v0.9.19-alpha
 ~BUBB_SPELL_MENU_EXTENDED/SETUP-BUBB_SPELL_MENU_EXTENDED.TP2~ #0 #0 // Bubb's Spell Menu Extended: 4.1
 ~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #710 // Add New HLAs for ALL Classes and Kits: v1.2-beta
 ~SKILLS-AND-ABILITIES/SKILLS-AND-ABILITIES.TP2~ #0 #720 // Update Existing HLAs: v1.2-beta
