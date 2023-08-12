@@ -10,8 +10,6 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
 
-Ahungry mod location repository - [Awesome-BGMods](https://ahungry.github.io/awesome-bgmods/)
-
 ## Tutorial Videos
 
 
