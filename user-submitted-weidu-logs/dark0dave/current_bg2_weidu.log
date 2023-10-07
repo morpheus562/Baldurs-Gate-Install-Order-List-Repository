@@ -1,23 +1,22 @@
 // Log of Currently Installed WeiDU Mods
 // The top of the file is the 'oldest' mod
 // ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
-~ASCENSION/ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #40 // Restored Bhaalspawn Powers: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #60 // Expanded Epilogues for Bioware NPCs -> David Gaider's expanded epilogues for Bioware NPCs: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1000 // Tougher Abazigal: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1100 // Tougher Balthazar: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1200 // Tougher Demogorgon: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1300 // Tougher Gromnir: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1400 // Tougher Illasera: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #1500 // Tougher Yaga-Shura: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.23
-~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.23
+~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #40 // Restored Bhaalspawn Powers: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #60 // Expanded Epilogues for Bioware NPCs -> David Gaider's expanded epilogues for Bioware NPCs: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1000 // Tougher Abazigal: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1100 // Tougher Balthazar: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1200 // Tougher Demogorgon: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1300 // Tougher Gromnir: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1400 // Tougher Illasera: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #1500 // Tougher Yaga-Shura: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.26
+~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.26
 ~LONGERROAD/LONGERROAD.TP2~ #0 #0 // Longer Road: 2.0.6
 ~LONGERROAD/LONGERROAD.TP2~ #0 #1 // Restore Irenicus's original portrait from SoA.: 2.0.6
 ~RR/SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.92
