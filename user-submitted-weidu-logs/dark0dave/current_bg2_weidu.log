@@ -18,6 +18,8 @@
 ~ASCENSION/ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.23
 ~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.23
 ~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.23
+~LONGERROAD/LONGERROAD.TP2~ #0 #0 // Longer Road: 2.0.6
+~LONGERROAD/LONGERROAD.TP2~ #0 #1 // Restore Irenicus's original portrait from SoA.: 2.0.6
 ~RR/SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.92
 ~RR/SETUP-RR.TP2~ #0 #1 // Thief kit revisions: v4.92
 ~RR/SETUP-RR.TP2~ #0 #2 // Thief High Level Ability revisions: v4.92
@@ -31,7 +33,6 @@
 ~RR/SETUP-RR.TP2~ #0 #12 // Shadow Thief Improvements: v4.92
 ~RR/SETUP-RR.TP2~ #0 #999 // BG2-style icons for RR content: v4.92
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #20 // Commoners Use Drab Colors: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #90 // Expanded Polymorph Self: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #50 // IWD Class Updates: Bard: Add IWD Bard Songs: v5
@@ -44,13 +45,10 @@
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #120 // IWD Class Updates: Thief: Evasion: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #30 // IWD Arcane Spell Pack: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #40 // IWD Divine Spell Pack: v5
-~LEUI/LEUI.TP2~ #0 #0 // lefreut's Enhanced UI - Core component: 4.6
-~LEUI/LEUI.TP2~ #0 #1 // lefreut's Enhanced UI - BG2 vanilla bams for spells: 4.6
-~LEUI/LEUI.TP2~ #0 #2 // lefreut's Enhanced UI - BG2 vanilla fonts for descriptions: 4.6
-~UNOFFICIAL ITEM PACK/SETUP-UNOFFICIAL ITEM PACK.TP2~ #1 #2 // Gourmet from Underdark
-~UNOFFICIAL ITEM PACK/SETUP-UNOFFICIAL ITEM PACK.TP2~ #1 #3 // Holy symbols
-~UNOFFICIAL ITEM PACK/SETUP-UNOFFICIAL ITEM PACK.TP2~ #1 #5 // SoD items
-~UNOFFICIAL ITEM PACK/SETUP-UNOFFICIAL ITEM PACK.TP2~ #1 #6 // Better archery shop
+~LEUI/LEUI.TP2~ #0 #0 // lefreut's Enhanced UI - Core component: 4.5
+~LEUI/LEUI.TP2~ #0 #1 // lefreut's Enhanced UI - BG2 vanilla bams for spells: 4.5
+~LEUI/LEUI.TP2~ #0 #2 // lefreut's Enhanced UI - BG2 vanilla fonts for descriptions: 4.5
+~UNDERREP/SETUP-UNDERREP.TP2~ #0 #0 // Underrepresented Items From Icewind Dale II: v12
 ~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #0 // Water Gardens. New Athkatla's district & new quests: 14
 ~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #1 // OPTIONAL component, NOT RECOMMENDED! Add unbalanced and non-lore items to merchant shops in Water Gardens?: 14
 ~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #2 // Shar-Teel NPC in BG2. "Nightbringer of Shar" (SoA): 14
@@ -82,43 +80,66 @@
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #11 // Restored Final Slayer Dream: v8.4
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #13 // Restored Waukeen's Promenade Cutscene: v8.4
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #12 // Alternate Slayer Change: v8.4
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 3.08
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #1 // For the Evil: Additional content that might disturb a truly good player.: Version 3.08
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #2 // For the Good: Additional content that might annoy a truly evil player.: Version 3.08
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #4 // Optional Soundset for Clara NPC: Version 3.08
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #5 // Optional Hi-Res Portrait for Mazzy created by Edvin.: Version 3.08
-~SKIECOST/SKIECOST.TP2~ #0 #0 // Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE: v4.7
-~SKIECOST/SKIECOST.TP2~ #0 #1 // Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC: v4.7
-~SKIECOST/SKIECOST.TP2~ #0 #2 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Skie: v4.7
-~SKIECOST/SKIECOST.TP2~ #0 #3 // Skie: The Cost of One Girl's Soul - The Return of Eddard Silvershield (quest & a joinable NPC): v4.7
-~SKIECOST/SKIECOST.TP2~ #0 #4 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard: v4.7
-~SKIECOST/SKIECOST.TP2~ #0 #5 // Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2: v4.7
+~UB/SETUP-UB.TP2~ #0 #0 // The Kidnapping of Boo by Cliffette: v28
+~UB/SETUP-UB.TP2~ #0 #1 // The Suna Seni/Valygar Relationship: v28
+~UB/SETUP-UB.TP2~ #0 #2 // Kalah and What He Was Promised: v28
+~UB/SETUP-UB.TP2~ #0 #3 // "Cat and Mouse" (Bodhi hunts you in Spellhold) by Ghreyfain: v28
+~UB/SETUP-UB.TP2~ #0 #4 // Gorje Hilldark and the Extended Illithium Quest: v28
+~UB/SETUP-UB.TP2~ #0 #5 // The Pai'Na/Spider's Bane Quest: v28
+~UB/SETUP-UB.TP2~ #0 #6 // Restored Crooked Crane Inn: v28
+~UB/SETUP-UB.TP2~ #0 #7 // Restored Encounters: v28
+~UB/SETUP-UB.TP2~ #0 #8 // Artemis Entreri in Bodhi's Lair: v28
+~UB/SETUP-UB.TP2~ #0 #9 // Corrected "Xzar's Creations": v28
+~UB/SETUP-UB.TP2~ #0 #10 // Restored Hell Minions, by SimDing0: v28
+~UB/SETUP-UB.TP2~ #0 #12 // Item Restorations: v28
+~UB/SETUP-UB.TP2~ #0 #17 // Corrected Character Names and Biographies: v28
+~UB/SETUP-UB.TP2~ #0 #18 // Restored Minor Dialogs: v28
+~UB/SETUP-UB.TP2~ #0 #19 // Restored Bhaalspawn Powers, by David Gaider: v28
+~UB/SETUP-UB.TP2~ #0 #20 // Extended ToB Item Descriptions: v28
+~UB/SETUP-UB.TP2~ #0 #21 // Throne of Bhaal Minor Restorations: v28
+~UB/SETUP-UB.TP2~ #0 #24 // Sarevok's Remorse: v28
+~UB/SETUP-UB.TP2~ #0 #25 // The Murder of Acton Balthis, by Kulyok: v28
+~C#SB_SILBER/SETUP-C#SB_SILBER.TP2~ #0 #0 // Adalon's Blood - Modification for BGII by Gandalf the white: 14
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 3.09
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #1 // For the Evil: Additional content that might disturb a truly good player.: Version 3.09
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #2 // For the Good: Additional content that might annoy a truly evil player.: Version 3.09
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #4 // Optional Soundset for Clara NPC: Version 3.09
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #5 // Optional Hi-Res Portrait for Mazzy created by Edvin.: Version 3.09
+~SKIECOST/SKIECOST.TP2~ #0 #0 // Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE: v4.8
+~SKIECOST/SKIECOST.TP2~ #0 #1 // Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC: v4.8
+~SKIECOST/SKIECOST.TP2~ #0 #2 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Skie: v4.8
+~SKIECOST/SKIECOST.TP2~ #0 #3 // Skie: The Cost of One Girl's Soul - The Return of Eddard Silvershield (quest & a joinable NPC): v4.8
+~SKIECOST/SKIECOST.TP2~ #0 #4 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard: v4.8
+~SKIECOST/SKIECOST.TP2~ #0 #5 // Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2: v4.8
+~BACKBRYNNLAW/BACKBRYNNLAW.TP2~ #0 #0 // Back to Brynnlaw mod for Baldur's Gate II: v9
 ~PAINA/PAINA.TP2~ #0 #0 // Pai'Na NPC for BG:EE
 ~PAINA/PAINA.TP2~ #0 #1 // Alternate Portrait
 ~SIMENPC/SIMENPC.TP2~ #0 #0 // Sime NPC: v0.4
 ~PPE/SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.02
-~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #20 // Replace Low Quality TOB & SOA Portraits: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #302 // Change Imoen portraits -> BG2 Portrait: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #311 // Change Viconia portraits -> SOD Portrait: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #322 // Change Jaheira portraits -> BG2 Portrait: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #332 // Change Minsc portraits -> BG2 Portrait: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #342 // Change Edwin portraits -> BG2 Portrait: 1.02
-~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
-~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
 ~ZG_BG2_VOICES/ZG_BG2_VOICES.TP2~ #0 #0 // Baldur's Gate II Voice Pack for EE 2.6+: 1.0.2
 ~ZG_BGNPC_VOICES/ZG_BGNPC_VOICES.TP2~ #0 #0 // Baldur's Gate NPC Voice Pack for EE 2.6+: 0.3.0
 ~ZG_BG_VOICES/ZG_BG_VOICES.TP2~ #0 #0 // Baldur's Gate Voice Pack for EE 2.6+: 1.0.3
 ~ZG_IWD2_VOICES/ZG_IWD2_VOICES.TP2~ #0 #0 // Icewind Dale II Voice Pack for EE 2.6+: 1.0.4
 ~ZG_IWD_VOICES/ZG_IWD_VOICES.TP2~ #0 #0 // Icewind Dale Voice Pack for EE 2.6+: 1.0.2
 ~ZG_NWN_VOICES/ZG_NWN_VOICES.TP2~ #0 #0 // Neverwinter Nights Voice Pack for EE 2.6+: 0.3.1
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2 // Artisan's Kitpack: Enable Multi-Classes for -> All Races: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 3.2
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 3.2
+~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #0 // Monk High Level Abilities by Kish
+~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #2 // Monk Fist Overhaul -> 5:+1 10:+2 15:+3 20:+4 25:+5 (Requires EE)
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2 // Artisan's Kitpack: Enable Multi-Classes for -> All Races: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 3.3
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 3.3
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #10 // Install new spells -> Overwrite spells from other mods: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #200 // Druid Remix: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #203 // Install Oozemaster Druid kit: 8.1
@@ -184,7 +205,6 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #20 // Change Imoen's Avatar to Mage: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #50 // Avatar Morphing Script: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #90 // Disable Portrait Icons Added by Equipped Items: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #171 // Unique Icons [Lava] -> Replace all icons: v16
@@ -192,7 +212,6 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #190 // Use Character Colors Instead of Item Colors -> For all shields and helmets: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1020 // Alter HP Triggers for NPC Wounded Dialogues: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1030 // Reveal Wilderness Areas Before Chapter Six: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1040 // Improved Athkatlan City Guard: v16
@@ -239,7 +258,6 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3124 // Stop Haer'Dalis-Aerie Romance from Starting: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3141 // Faster Chapter One and Two Cutscenes and Dreams -> Non-silly version: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3176 // Accelerate/Decelerate Romances: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3294 // Personalize Automatic Save Names -> Use scheme: 000000000-[Protagonist]-Save-Name: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3300 // Death Cam: v16
@@ -272,4 +290,4 @@
 ~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #310 // Distinctive creature coloring: v4.54
 ~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #315 // Distinctive creature soundsets: v4.54
 ~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #999 // BG2-style icons for aTweaks content: v4.54
-~SUBRACE/SUBRACE.TP2~ #1 #200 // Subrace mod for Baldur's Gate Enhanced Edition (BG1, BG:SoD, BG2, EET) -> No change subrace colors (Hair and Skin): 0.3.1
+~SUBRACE/SUBRACE.TP2~ #1 #200 // Subrace mod for Baldur's Gate Enhanced Edition (BG1, BG:SoD, BG2, EET) -> No change subrace colors (Hair and Skin): 0.3.2
