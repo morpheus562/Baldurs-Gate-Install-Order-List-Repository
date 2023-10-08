@@ -8,7 +8,9 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 ## Mod Resources
 
-My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
+[Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
+
+[Infinity Engine Mod Installer](https://github.com/dark0dave/mod_installer).
 
 ## Tutorial Videos
 
