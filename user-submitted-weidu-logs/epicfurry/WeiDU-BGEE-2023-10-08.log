@@ -1,0 +1,139 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~DLCMERGER/DLCMERGER.TP2~ #0 #1 // Merge DLC into game -> Merge "Siege of Dragonspear" DLC: 1.4
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #60 // Two-Handed Axe Item Pack: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #90 // Expanded Polymorph Self: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #30 // IWD Arcane Spell Pack: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #40 // IWD Divine Spell Pack: v5
+~RR/SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.92
+~RR/SETUP-RR.TP2~ #0 #1 // Thief kit revisions: v4.92
+~RR/SETUP-RR.TP2~ #0 #4 // Bard kit revisions: v4.92
+~RR/SETUP-RR.TP2~ #0 #7 // Additional equipment for Thieves and Bards: v4.92
+~RR/SETUP-RR.TP2~ #0 #999 // BG2-style icons for RR content: v4.92
+~BG1UB/SETUP-BG1UB.TP2~ #0 #0 // Ice Island Level Two Restoration: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #11 // Scar and the Sashenstar's Daughter: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #12 // Quoningar, the Cleric: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #13 // Shilo Chen and the Ogre-Magi: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #14 // Edie, the Merchant League Applicant: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #16 // Creature Corrections: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #17 // Creature Restorations: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #18 // Creature Name Restorations: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #19 // Minor Dialogue Restorations: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #21 // Store, Tavern and Inn Fixes and Restorations: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #22 // Item Corrections and Restorations: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #29 // Duke Eltan in the Harbor Master's Building: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #30 // Nim Furlwing Encounter: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #32 // Svlast, the Fallen Paladin Encounter: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #33 // Mal-Kalen, the Ulcaster Ghost: v16.4
+~BG1UB/SETUP-BG1UB.TP2~ #0 #34 // Chapter 6 Dialogue Restorations: v16.4
+~BG1NPC/BG1NPC.TP2~ #0 #0 // The BG1 NPC Project: Required Modifications: v32
+~BG1NPC/BG1NPC.TP2~ #0 #10 // The BG1 NPC Project: Banters, Quests, and Interjections: v32
+~BG1NPC/BG1NPC.TP2~ #0 #32 // The BG1 NPC Project: Branwen's Romance Core (teen content) -> Speed: 30 minutes real time minimum between LoveTalks: v32
+~BG1NPC/BG1NPC.TP2~ #0 #52 // The BG1 NPC Project: Dynaheir's Romance Core (teen content) -> Speed: 30 minutes real time minimum between LoveTalks: v32
+~BG1NPC/BG1NPC.TP2~ #0 #90 // The BG1 NPC Project: NPCs can be sent to wait in an inn: v32
+~BG1NPC/BG1NPC.TP2~ #0 #111 // BGEE Banter Timing Tweak -> Banter Timing: Fast (about 20 minutes between banter dialogs): v32
+~BG1NPC/BG1NPC.TP2~ #0 #120 // The BG1 NPC Project: Bardic Reputation Adjustment: v32
+~BG1NPC/BG1NPC.TP2~ #0 #240 // The BG1 NPC Project: Kivan's Proficiency -> Kivan uses spears: v32
+~BG1NPC/BG1NPC.TP2~ #0 #200 // The BG1 NPC Project: Player-Initiated Dialogues: v32
+~FREEACT/SETUP-FREEACT.TP2~ #0 #10 // PnP Free Action: v2
+~FREEACT/SETUP-FREEACT.TP2~ #0 #50 // Update spell and item descriptions: v2
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3540 // Reduce the power of Inquisitors' Dispel Magic -> Inquisitors dispel at 1.5 x their level (not twice their level): 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3551 // Increase the power of Cure Wounds and Cause Wounds spells to the level found in 3rd Edition D&D -> Spells heal or inflict the maximum amount of damage in this range: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3580 // Restoration and Lesser Restoration spells heal ability-score damage: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4000 // Faster Bears: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4020 // More realistic wolves and wild dogs: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4030 // Improved shapeshifting: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4115 // Thieves assign skill points in multiples of five: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5080 // Improved textscreens in Tales of the Sword Coast: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5900 // Initialise AI components (required for all tactical and AI components): 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6000 // Smarter general AI: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6010 // Better calls for help: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6030 // Smarter Mages: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6040 // Smarter Priests: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6100 // Potions for NPCs: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6200 // Improved Spiders: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6300 // Smarter sirines and dryads: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6310 // Slightly smarter carrion crawlers: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6320 // Smarter basilisks: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7000 // Improved doppelgangers: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7010 // Tougher Black Talons and Iron Throne guards: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7020 // Improved deployment for parties of assassins: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7030 // Improved kobolds: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7040 // Relocated bounty hunters: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7050 // Improved Ulcaster: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7060 // Improved Balduran's Isle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7070 // Improved Durlag's Tower: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7080 // Improved Demon Cultists: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7090 // Improved Cloakwood Druids: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7100 // Improved Bassilus: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7110 // Improved Drasus party: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7130 // Improved Red Wizards: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7140 // Improved Undercity assassins: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7150 // Improved Carsa/Kahrk interaction: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7200 // Tougher chapter-two end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7210 // Tougher chapter-three end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7220 // Tougher chapter-four end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7230 // Tougher chapter-five end battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7250 // Improved final battle: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #7900 // Improved minor encounters: 34.3
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #60 // Weapon Animation Tweaks: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #140 // Fix Boo's Squeak: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #160 // Make Magic Shields Glow [plainab/grogerson]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #170 // Unique Icons [Lava] -> Only replace icons that aren't already unique: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #180 // Unique Containers [Miloch] -> Fixes only: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1036 // Make Cloakwood Areas Available Before Completing the Bandit Camp -> All of Cloakwood except the mines: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1060 // Breakable Iron Non-Magical Shields, Helms, and Armor: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1075 // Send BioWare NPCs to an Inn [DavidW/Zed Nocear]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1080 // Add Bags of Holding: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1100 // Reveal City Maps When Entering Area: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1120 // Stores Sell Higher Stacks of Items: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1150 // Shapeshifter Rebalancing [Weimer]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1251 // Move NPCs to Convenient Locations: Move Alora to Gullykin: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1252 // Move NPCs to Convenient Locations: Move Eldoth to the Coast Way: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1253 // Move NPCs to Convenient Locations: Move Quayle to the Nashkel Carnival: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1255 // Move NPCs to Convenient Locations: Move Tiax to Beregost: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1270 // Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2020 // Two-Handed Bastard Swords: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2030 // Two-Handed Katanas: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2035 // Two-Handed Axes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2090 // Change Experience Point Cap -> Remove experience cap: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2152 // Wear Multiple Protection Items -> Allow armor plus one protection item [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2210 // Change Grandmastery Bonuses -> True grandmastery [Baldurdash]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2250 // Un-Nerfed Sorcerer Spell Progression Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2260 // Alter Mage Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2270 // Alter Bard Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2280 // Alter Cleric Spell Progression Table -> Un-nerfed table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2581 // Alter Wisdom-Based Divine Bonus Spell Table -> Use BG/BG2/IWD Table: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2360 // Remove Racial Restrictions for Single-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2380 // Remove Racial Restrictions for Kits: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2357 // Alter Multi-Class Restrictions -> Install options one and two (everyone can multi-class anything): v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2391 // Alter Paladin Spell Progression Table -> BG2-Style Progression (Up To Level Six Spells) [TotoR]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2401 // Alter Ranger Spell Progression Table -> BG2-Style Progression (Up To Level Five Spells) [TotoR]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2440 // Everyone Gets Bonus APR from Specialization [subtledoctor]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2500 // Exceptional Strength Weight Limit Changes [sarevok57]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2590 // Thieves Can Backstab With More Weapons With "Use Any Item" or as Dual- and Multi-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2999 // Max HP at Level One: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3000 // Higher HP on Level Up -> Maximum: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3010 // Maximum HP Creatures [the bigg] -> For all creatures in game: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3040 // Make Bags of Holding Bottomless: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3050 // Remove Fatigue from Restoration Spells: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3083 // Increase Ammo Stack Size -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3093 // Increase Jewelry, Gem, and Miscellaneous Item Stacks -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3103 // Increase Potion Stacking -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3113 // Increase Scroll Stacking -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3300 // Death Cam: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4000 // Adjust Evil Joinable NPC Reaction Rolls: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4031 // Consistent Stats: Edwin -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4041 // Consistent Stats: Jaheira -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4061 // Consistent Stats: Minsc -> Use BG2 values: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4071 // Consistent Stats: Viconia -> Use BG2 values: v16
+~RAMSAY/RAMSAY.TP2~ #0 #0 // Gordon Ramsay Soundset
