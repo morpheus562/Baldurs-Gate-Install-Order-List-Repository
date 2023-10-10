@@ -8,7 +8,9 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 ## Mod Resources
 
-My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1).
+[Project Infinity](https://forums.beamdog.com/discussion/74335/project-infinity-mod-manager-for-baldurs-gate-icewind-dale-planescape-torment-and-eet/p1)
+
+[Infinity Engine Mod Installer](https://github.com/dark0dave/mod_installer)
 
 ## Tutorial Videos
 
@@ -16,6 +18,8 @@ My mod manager of choice is [Project Infinity](https://forums.beamdog.com/discus
 Morpheus562 Project Infinity Youtube tutorial - [Project Infinity Tutorial - Baldur's Gate Mod Installation](https://www.youtube.com/watch?v=wt1mWX2zo_4)
 
 Coredumped mod installation Youtube tutorial - [Baldur's Gate - Mod Installation Guide](https://www.youtube.com/watch?v=Dpumgv99_iI)
+
+dark0dave Infinity Engine Mod Installer [Demo](https://github.com/dark0dave/mod_installer#demo)
 
 ## Baldur's Gate: Enhanced Edition ONLY WeiDU Logs
 
