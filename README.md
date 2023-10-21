@@ -1,5 +1,5 @@
 # Baldurs-Gate-Install-Order-List-Repository
-This Repository is a collection of user submitted WeiDU logs for Baldurs Gate: Enhanced Edition, Baldur's Gate II: Enhanced Edition, and Enhanced Edition Trilogy (EET). The aim of this collection is to assist players in determining install orders and compatibility by being able to see other user uploaded WeiDU logs.
+This Repository has expanding from being Baldur's Gate specific to being a collection of user submitted WeiDU logs for all Infinity Engine Games. The aim of this collection is to assist players in determining install orders and compatibility by being able to see other user uploaded WeiDU logs.
 
 **DISCLAIMER** _If you choose to use these logs, it is your responsibility to determine if the install orders are current and work without conflict. Additionally, if you choose to use these logs in a mod manager, it is incumbent on you to understand how the mod manager works (preferably have used it for past installs)._
 
@@ -45,6 +45,9 @@ Subtledoctor install order provided on 2022-06-04 with [readme](https://github.c
 
 ## Enhanced Edition Trilogy (EET) WeiDU Logs
 _* EEex is installed, so the game needs to be launched using the InfinityLoader.exe instead of the normal executable._
+
+Ensrick [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/ensrick/readme.md)
+- Installed on 2023-10-20: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ensrick/WeiDU-BGEE-2023-10-20.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/ensrick/WeiDU-EET-2023-10-20.log)
 
 morpheus562 [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/readme.md)
 - Installed on 2022-01-08: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-BGEE-2022-01-05.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-EET-2022-01-05.log)_*_
