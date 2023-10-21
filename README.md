@@ -12,6 +12,8 @@ To request to submit your WeiDU log(s), please create a push request. You will n
 
 [Infinity Engine Mod Installer](https://github.com/dark0dave/mod_installer)
 
+[WeiDU Install Tool](https://github.com/InfinityTools/WeiduInstallTool)
+
 ## Tutorial Videos
 
 
