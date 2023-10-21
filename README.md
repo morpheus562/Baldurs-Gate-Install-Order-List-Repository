@@ -61,3 +61,7 @@ _* EEex is installed, so the game needs to be launched using the InfinityLoader.
 
 morpheus562 [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/morpheus562/readme.md)
 - Installed on 2022-12-12: [IWDEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/morpheus562/WeiDU-IWDEE-2022-12-12.log)_*_
+
+## Baldur's Gate Trilogy (NON-EE)
+
+TotoR - Provided on 2023-10-20: [BGT](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/totor/WeiDU-BGT-2023-10-20.log)
