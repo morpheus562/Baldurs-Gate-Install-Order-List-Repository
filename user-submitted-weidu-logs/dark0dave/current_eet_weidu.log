@@ -2,10 +2,6 @@
 // The top of the file is the 'oldest' mod
 // ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
 ~EET/EET.TP2~ #0 #0 // EET core (resource importation): V13.4
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #0 // Install Infinity UI++ Core Component: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #1 // Add Transparent Tooltip Background: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #2 // Update several strings in Dialog.tlk: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #8 // Select Number of Quicksave Slots -> 6: v0.6
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v5
