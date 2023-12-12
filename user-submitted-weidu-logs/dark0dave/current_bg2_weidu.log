@@ -226,6 +226,7 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3141 // Faster Chapter One and Two Cutscenes and Dreams -> Non-silly version: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #3160 // Keep Drizzt's Loot, Disable Malchor Harpell [Weimer]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3176 // Accelerate/Decelerate Romances: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3195 // Alter Hostile Rest Spawns -> Decrease frequency by 50%: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
@@ -269,7 +270,7 @@
 ~PPE/SETUP-PPE.TP2~ #0 #20 // Replace Low Quality TOB & SOA Portraits: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
-~BMPP/BMPP.TP2~ #0 #2 // bmppbg2: v0.1
+~BMPP/BMPP.TP2~ #0 #1 // bg2: v0.1
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #11 // Add in-game option "Enable UI Edit Mode": 4.4
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #12 // Add in-game option "Show Strrefs": 4.4
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #13 // Add in-game option "Hotkeys On Tooltips": 4.4

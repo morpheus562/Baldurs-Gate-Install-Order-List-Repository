@@ -208,7 +208,7 @@
 ~PPE/SETUP-PPE.TP2~ #0 #20 // Replace Low Quality TOB & SOA Portraits: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
-~BMPP/BMPP.TP2~ #0 #1 // bmppbg1: v0.1
+~BMPP/BMPP.TP2~ #0 #0 // bg1: v0.1
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #11 // Add in-game option "Enable UI Edit Mode": 4.4
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #12 // Add in-game option "Show Strrefs": 4.4
 ~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #13 // Add in-game option "Hotkeys On Tooltips": 4.4

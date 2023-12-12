@@ -104,10 +104,7 @@
 ~BACKBRYNNLAW/BACKBRYNNLAW.TP2~ #0 #0 // Back to Brynnlaw mod for Baldur's Gate II: v9
 ~PAINA/PAINA.TP2~ #0 #0 // Pai'Na NPC for BG:EE
 ~SIMENPC/SIMENPC.TP2~ #0 #0 // Sime NPC: v0.5
-~SHINEONCAELAR/SHINEONCAELAR.TP2~ #0 #0 // SoD Alternative: v1.3
-~SHINEONCAELAR/SHINEONCAELAR.TP2~ #0 #1 // Caelar's Rescue: v1.3
 ~LCA/LCA.TP2~ #0 #0 // Love Conquers All (LCA)
-~EET_SWO/EET_SWO.TP2~ #0 #0 // The Sword of Chaos: v0.9
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #0 // Monk High Level Abilities by Kish
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #1 // Monk Fist Overhaul -> 3:+1 9:+2 12:+3 15:+4 25:+5
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 4.31
@@ -245,6 +242,7 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3141 // Faster Chapter One and Two Cutscenes and Dreams -> Non-silly version: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3160 // Keep Drizzt's Loot, Disable Malchor Harpell [Weimer]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3176 // Accelerate/Decelerate Romances: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3195 // Alter Hostile Rest Spawns -> Decrease frequency by 50%: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
@@ -288,5 +286,22 @@
 ~PPE/SETUP-PPE.TP2~ #0 #20 // Replace Low Quality TOB & SOA Portraits: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
-~BMPP/BMPP.TP2~ #0 #1 // bmppbg1: v0.1
-~BMPP/BMPP.TP2~ #0 #2 // bmppbg2: v0.1
+~BMPP/BMPP.TP2~ #0 #0 // bg1: v0.1
+~BMPP/BMPP.TP2~ #0 #1 // bg2: v0.1
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #11 // Add in-game option "Enable UI Edit Mode": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #12 // Add in-game option "Show Strrefs": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #13 // Add in-game option "Hotkeys On Tooltips": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #14 // Add in-game option "Show trigger icons on tab": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #17 // Add in-game option "3E Sneak Attack": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #19 // Add in-game option "Show extra combat info": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #20 // Add in-game option "Show Game Date and Time on Pause": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #23 // Add in-game option "Pause Game on Map Screen": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #27 // Add in-game option "XP Bonus in Nightmare Mode": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #32 // Add in-game option "Show Area of Effect Range": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #33 // Add in-game option "Enhanced Path Search": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #34 // Add in-game option "Expire Trap Highlights": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #35 // Add in-game option "Show Learnable Spells": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #36 // Add in-game option "Render Search Map": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #37 // Add in-game option "Render Dynamic Search Map": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #38 // Add in-game options for Tweak Anthology's "Create Interval Saves": 4.4
+~HIDDENGAMEPLAYOPTIONS/HIDDENGAMEPLAYOPTIONS.TP2~ #0 #39 // Add in-game option "Force Dialog Pause": 4.4
