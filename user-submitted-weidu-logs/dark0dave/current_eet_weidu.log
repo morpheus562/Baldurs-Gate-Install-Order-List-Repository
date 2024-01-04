@@ -2,10 +2,6 @@
 // The top of the file is the 'oldest' mod
 // ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
 ~EET/EET.TP2~ #0 #0 // EET core (resource importation): V13.4
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #0 // Install Infinity UI++ Core Component: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #1 // Add Transparent Tooltip Background: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #2 // Update several strings in Dialog.tlk: v0.6
-~INFINITY_UI/INFINITY_UI.TP2~ #0 #8 // Select Number of Quicksave Slots -> 6: v0.6
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v5
@@ -55,7 +51,6 @@
 ~UB/SETUP-UB.TP2~ #0 #12 // Item Restorations: v29
 ~UB/SETUP-UB.TP2~ #0 #17 // Corrected Character Names and Biographies: v29
 ~UB/SETUP-UB.TP2~ #0 #18 // Restored Minor Dialogs: v29
-~UB/SETUP-UB.TP2~ #0 #19 // Restored Bhaalspawn Powers, by David Gaider: v29
 ~UB/SETUP-UB.TP2~ #0 #20 // Extended ToB Item Descriptions: v29
 ~UB/SETUP-UB.TP2~ #0 #21 // Throne of Bhaal Minor Restorations: v29
 ~UB/SETUP-UB.TP2~ #0 #24 // Sarevok's Remorse: v29
@@ -77,21 +72,6 @@
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #4040 // Import party items to SoA: 1.12
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #4060 // Wand Case: 1.12
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #4070 // Key Ring: 1.12
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #0 // Water Gardens. New Athkatla's district & new quests: 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #2 // Shar-Teel NPC in BG2. "Nightbringer of Shar" (SoA): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #4 // Yeslick Orothiar NPC in BG2 (SoA): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #6 // Brave Sir Garrick NPC in BG2 (SoA): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #8 // Skie & Eldoth NPCs in BG2 (SoA): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #10 // Branwen NPC in BG2 (SoA): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #11 // ToB-part for Shar-Teel or/and Yeslick, Garrick, Branwen, Skie, Eldoth: 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #20 // Coran & Safana Chronicles (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #25 // Alora (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #35 // Kagain's Corner (SoA & ToB) -> Store with Vanilla Items Only: 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #40 // Faldorn's New Leaf (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #45 // Xzar and Monty Murder Mysteries (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #50 // Gnomes in the City: Quayle & Tiax (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #60 // Ajantis (SoA & ToB): 14.3
-~BG1NPCSOA/BG1NPCSOA.TP2~ #0 #87 // Inter Component Banter Pack: 14.3
 ~JANQUEST/SETUP-JANQUEST.TP2~ #1 #0 // Jan's Extended Quest
 ~C#SB_SILBER/SETUP-C#SB_SILBER.TP2~ #0 #0 // Adalon's Blood - Modification for BGII by Gandalf the white: 15
 ~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 3.12
@@ -108,14 +88,9 @@
 ~BACKBRYNNLAW/BACKBRYNNLAW.TP2~ #0 #0 // Back to Brynnlaw mod for Baldur's Gate II: v9
 ~PAINA/PAINA.TP2~ #0 #0 // Pai'Na NPC for BG:EE
 ~SIMENPC/SIMENPC.TP2~ #0 #0 // Sime NPC: v0.5
-~SHINEONCAELAR/SHINEONCAELAR.TP2~ #0 #0 // SoD Alternative: v1.3
-~SHINEONCAELAR/SHINEONCAELAR.TP2~ #0 #1 // Caelar's Rescue: v1.3
 ~LCA/LCA.TP2~ #0 #0 // Love Conquers All (LCA)
-~EET_SWO/EET_SWO.TP2~ #0 #0 // The Sword of Chaos: v0.9
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #0 // Monk High Level Abilities by Kish
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #1 // Monk Fist Overhaul -> 3:+1 9:+2 12:+3 15:+4 25:+5
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2 // Artisan's Kitpack: Enable Multi-Classes for -> All Races: 4.31
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 4.31
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 4.31
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 4.31
@@ -249,6 +224,7 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3141 // Faster Chapter One and Two Cutscenes and Dreams -> Non-silly version: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3160 // Keep Drizzt's Loot, Disable Malchor Harpell [Weimer]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3176 // Accelerate/Decelerate Romances: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3195 // Alter Hostile Rest Spawns -> Decrease frequency by 50%: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
@@ -292,5 +268,5 @@
 ~PPE/SETUP-PPE.TP2~ #0 #20 // Replace Low Quality TOB & SOA Portraits: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #30 // Ust Natha Drow NPCs: 1.02
 ~PPE/SETUP-PPE.TP2~ #0 #40 // Vampire NPCs: 1.02
-~BMPP/BMPP.TP2~ #0 #1 // bmppbg1: v0.1
-~BMPP/BMPP.TP2~ #0 #2 // bmppbg2: v0.1
+~BMPP/BMPP.TP2~ #0 #0 // bg1: v0.1
+~BMPP/BMPP.TP2~ #0 #1 // bg2: v0.1
