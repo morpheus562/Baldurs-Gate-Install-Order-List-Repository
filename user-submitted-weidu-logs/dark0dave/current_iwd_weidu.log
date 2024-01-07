@@ -1,15 +1,19 @@
 // Log of Currently Installed WeiDU Mods
 // The top of the file is the 'oldest' mod
 // ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1 // Artisan's Kitpack: Enable All Classes for All Races: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #2 // Artisan's Kitpack: Enable Multi-Classes for -> All Races: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8003 // Artisan's Kitpack: Pale Master Spells -> All Necromancy Divine Spells (including Cure Wounds, Neutralize Poison, etc.): 4.31
-~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #11 // Install new spells -> Only add spells if not present from other mods: 8.1
+~UB_IWD/SETUP-UB_IWD.TP2~ #0 #300 // Marketh's Ring: v11
+~UB_IWD/SETUP-UB_IWD.TP2~ #0 #700 // Actual Shadows in Vale of Shadows [Graion Dilach]: v11
+~UB_IWD/SETUP-UB_IWD.TP2~ #0 #800 // Add the Wardstone for Lower Dorn's Deep: v11
+~IWDNPC/SETUP-IWDNPC.TP2~ #0 #0 // Icewind Dale NPCs: v9
+~FINDIT-IWD/FINDIT-IWD.TP2~ #0 #0 // FindIt IWD:EE: v2.6
+~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #0 // Monk High Level Abilities by Kish
+~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #1 // Monk Fist Overhaul -> 3:+1 9:+2 12:+3 15:+4 25:+5
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 4.4
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 4.4
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 4.4
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 4.4
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 4.4
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8102 // Artisan's Kitpack: Pale Master Spells -> All Necromancy Divine Spells (including Cure Wounds, Neutralize Poison, etc.): 4.4
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #403 // Install Bowslinger Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #406 // Install Feralan Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #409 // Install Forest Runner Ranger Kit: 8.1
@@ -18,6 +22,7 @@
 ~RR/SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.92
 ~RR/SETUP-RR.TP2~ #0 #1 // Thief kit revisions: v4.92
 ~RR/SETUP-RR.TP2~ #0 #3 // Proper racial adjustments for thieving skills: v4.92
+~RR/SETUP-RR.TP2~ #0 #4 // Bard kit revisions: v4.92
 ~RR/SETUP-RR.TP2~ #0 #6 // Proper spell progression for Bards: v4.92
 ~RR/SETUP-RR.TP2~ #0 #7 // Additional equipment for Thieves and Bards: v4.92
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #10 // Remove Helmet Animations: v16
@@ -30,10 +35,13 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3151 // Remove Annoying Visual Effects from Equipped Items -> Remove all of the above: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #230 // Restore IWD Tooltips: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1070 // Improved Multi-Player Kick-Out Dialogues: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1100 // Reveal City Maps When Entering Area: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1120 // Stores Sell Higher Stacks of Items: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1150 // Shapeshifter Rebalancing [Weimer]: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1300 // Make Heart of Winter Accessible at Any Level: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1280 // Game Ends When the Main Character Dies: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #1290 // NPCs Respond to the Main Character, Not to Whichever Character Talks to Them: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2090 // Change Experience Point Cap -> Remove experience cap: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2140 // Expanded Dual-Class Options: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2152 // Wear Multiple Protection Items -> Allow armor plus one protection item [Angel]: v16
@@ -45,11 +53,16 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2270 // Alter Bard Spell Progression Table -> Un-nerfed table [Blucher]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2280 // Alter Cleric Spell Progression Table -> Un-nerfed table [Blucher]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2293 // Alter Druid Spell and Level Progression Tables -> Use cleric level progression changes with un-nerfed druid spell table [Blucher]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2312 // Add Save Penalties for Spells Cast by High-Level Casters -> Arcane and divine magic: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2330 // Remove Delay for Magical Traps [Ardanis/GeN1e]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2339 // Remove Summoning Cap for Regular Summons: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2360 // Remove Racial Restrictions for Single-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2380 // Remove Racial Restrictions for Kits: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2371 // Alter Dual-Class Restrictions -> Allow non-humans to dual-class: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2358 // Alter Multi-Class Restrictions -> Install options one and three (everyone can multi-class anything they can single-class): v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2410 // Druids Use 3E Alignment Restrictions: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2520 // Allow Mages to Use Bucklers and Thieves to Use Small Shields [Angel]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2590 // Thieves Can Backstab With More Weapons With "Use Any Item" or as Dual- and Multi-Classes: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2630 // Improved Cure / Cause Wounds [Luke]: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2999 // Max HP at Level One: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3000 // Higher HP on Level Up -> Maximum: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3008 // Allow HP Rolls Through Level 20 [Angel]: v16
@@ -57,9 +70,31 @@
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3040 // Make Bags of Holding Bottomless: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3050 // Remove Fatigue from Restoration Spells: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3070 // Change Effect of Reputation on Store Prices -> Low Reputation Store Discount [Sabre]: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3083 // Increase Ammo Stack Size -> Stacks of 120: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3080 // Increase Ammo Stack Size -> Unlimited ammo stacking: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3090 // Increase Jewelry, Gem, and Miscellaneous Item Stacks -> Unlimited jewelry, gem, and miscellaneous item stacking: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3100 // Increase Potion Stacking -> Unlimited potion stacking: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3110 // Increase Scroll Stacking -> Unlimited scroll stacking: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3195 // Alter Hostile Rest Spawns -> Decrease frequency by 50%: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3200 // Sellable Items [icelus]: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3242 // Friendly Random Drops -> Exchange with merchants: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3294 // Personalize Automatic Save Names -> Use scheme: 000000000-[Protagonist]-Save-Name: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3310 // Start New Games with Party AI Turned Off: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #3390 // Automatic Use of Ranger Tracking Skill: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #4020 // ToB-Style NPCs: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #2360 // Remove Racial Restrictions for Single-Classes: v16
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #104 // PnP Color Spray: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #105 // PnP Dimension Door: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #115 // Allow Mages to scribe memorized spells onto scrolls -> Scrolls can be scribed everywhere: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #125 // Rangers' Animal Empathy improves with experience: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #130 // Additional racial traits for Dwarves: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #140 // Additional racial traits for Gnomes: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #185 // PnP Fey creatures: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #205 // Prevent Project Image and Simulacrum clones from using quickslot items: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #211 // Make Death Ward protect against Vorpal Hits: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #210 // Restore the Dispel Magic vulnerability to Nishruu and Hakeashars: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #212 // Make alignment detection spells more accurate: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #213 // Expanded saving throw bonus tables for Dwarves, Gnomes and Halflings: v4.54
+~ATWEAKS/SETUP-ATWEAKS.TP2~ #0 #999 // BG2-style icons for aTweaks content: v4.54
+~SUBRACE/SUBRACE.TP2~ #1 #200 // Subrace mod for Baldur's Gate Enhanced Edition (BG1, BG:SoD, BG2, EET) -> No change subrace colors (Hair and Skin): 0.3.2
+~PPE/SETUP-PPE.TP2~ #0 #0 // Portraits Portraits Everywhere (PPE) - core component: 1.02
+~PPE/SETUP-PPE.TP2~ #0 #100 // Category Portraits (Recommended) -> Sequenced: 1.02
