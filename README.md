@@ -51,7 +51,7 @@ _* EEex is installed, so the game needs to be launched using the InfinityLoader.
 bozerg
 - Provided on 2024-01-05: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/bozerg/WeiDU-BGEE-2024-01-06.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/bozerg/WeiDU-EET-2024-01-06.log)_*_
 
-claylogic [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/claylogic/README.md)
+claylogic [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/claylogic/readme.md)
 - Provided on 2024-01-05: [Pre-EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/claylogic/WeiDU-BGEE-2024-01-06.log) and [EET](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/claylogic/WeiDU-EET-2024-01-06.log)
 
 dark0dave [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/dark0dave/README.md)
