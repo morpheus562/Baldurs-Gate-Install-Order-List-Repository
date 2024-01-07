@@ -33,6 +33,8 @@ dark0dave install order provided on 2023-01-23 with [readme](https://github.com/
 
 Epickiwhy install order provided on 2023-10-08 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/epickiwhy/WeiDU-BGEE-2023-10-08.log)
 
+Nalier install order installed on 2023-06-01 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/nalier/WeiDU-BGEE-2023-06-01.log)
+
 Modot install order provided on 2023-02-03 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/modot/WeiDU-BGEE-2023-02-03.log)
 
 Subtledoctor install order provided on 2022-06-04 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/WeiDU-BGEE-2022-06-04.log)
