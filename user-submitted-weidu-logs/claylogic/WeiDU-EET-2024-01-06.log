@@ -1,0 +1,292 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~EET\EET.TP2~ #0 #0 // EET core (resource importation): V13.4
+~ASCENSION\ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #40 // Restored Bhaalspawn Powers: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #60 // Expanded Epilogues for Bioware NPCs -> David Gaider's expanded epilogues for Bioware NPCs: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1000 // Tougher Abazigal: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1100 // Tougher Balthazar: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1200 // Tougher Demogorgon: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1300 // Tougher Gromnir: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1400 // Tougher Illasera: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #1500 // Tougher Yaga-Shura: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #2100 // Alternate Balthazar portrait, by Cuv: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.26
+~ASCENSION\ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.26
+~BGQE\SETUP-BGQE.TP2~ #0 #0 // Slime Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #1 // Beregost Family Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #2 // Babysitting Quest, including the Carnival Encounter...: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #3 // Nashkel Monster Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #4 // Fallen Paladin Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #5 // Undying Love Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #6 // Lovesick Half-Orc: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #7 // Unexpected Help Quest: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #8 // Many Little Paws: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #9 // Drunk near Beregost Temple: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #10 // A Warm Place for Noober: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #11 // Brage's Sword: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #12 // Legal Sea Charts Sources: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #13 // Additions to the Lady's Hall and the Bitch Queen's Temple: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #14 // A Worried Farmer: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #15 // Bodies for a Good Cause: 27
+~BGQE\SETUP-BGQE.TP2~ #0 #16 // Finish Cordyr's Quest without killing Sil: 27
+~UB\SETUP-UB.TP2~ #0 #0 // The Kidnapping of Boo by Cliffette: v28
+~UB\SETUP-UB.TP2~ #0 #1 // The Suna Seni/Valygar Relationship: v28
+~UB\SETUP-UB.TP2~ #0 #2 // Kalah and What He Was Promised: v28
+~UB\SETUP-UB.TP2~ #0 #3 // "Cat and Mouse" (Bodhi hunts you in Spellhold) by Ghreyfain: v28
+~UB\SETUP-UB.TP2~ #0 #4 // Gorje Hilldark and the Extended Illithium Quest: v28
+~UB\SETUP-UB.TP2~ #0 #5 // The Pai'Na/Spider's Bane Quest: v28
+~UB\SETUP-UB.TP2~ #0 #6 // Restored Crooked Crane Inn: v28
+~UB\SETUP-UB.TP2~ #0 #7 // Restored Encounters: v28
+~UB\SETUP-UB.TP2~ #0 #8 // Artemis Entreri in Bodhi's Lair: v28
+~UB\SETUP-UB.TP2~ #0 #9 // Corrected "Xzar's Creations": v28
+~UB\SETUP-UB.TP2~ #0 #10 // Restored Hell Minions, by SimDing0: v28
+~UB\SETUP-UB.TP2~ #0 #12 // Item Restorations: v28
+~UB\SETUP-UB.TP2~ #0 #15 // NPC Portrait Restorations: v28
+~UB\SETUP-UB.TP2~ #0 #17 // Corrected Character Names and Biographies: v28
+~UB\SETUP-UB.TP2~ #0 #18 // Restored Minor Dialogs: v28
+~UB\SETUP-UB.TP2~ #0 #21 // Throne of Bhaal Minor Restorations: v28
+~UB\SETUP-UB.TP2~ #0 #25 // The Murder of Acton Balthis, by Kulyok: v28
+~BG1NPC\BG1NPC.TP2~ #0 #0 // The BG1 NPC Project: Required Modifications: v32
+~BG1NPC\BG1NPC.TP2~ #0 #10 // The BG1 NPC Project: Banters, Quests, and Interjections: v32
+~BG1NPC\BG1NPC.TP2~ #0 #130 // The BG1 NPC Project: Sarevok's Diary Adjustments -> SixofSpades Extended Sarevok's Diary: v32
+~BG1NPC\BG1NPC.TP2~ #0 #240 // The BG1 NPC Project: Kivan's Proficiency -> Kivan uses spears: v32
+~BANTERPACK\SETUP-BANTERPACK.TP2~ #0 #0 // Pocket Plane Banter Pack for BG2: Shadows of Amn: v18
+~BANTERPACK\SETUP-BANTERPACK.TP2~ #0 #2 // Pocket Plane Banter Pack for BG2: Throne of Bhaal: v18
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #0 // Extended NPC-NPC Interaction SoA: v5.9
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #1 // Extended Minsc/Aerie Interaction ToB: v5.9
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #2 // Imoen "Retrospection" dialogue for BGII: ToB: v5.9
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #3 // Wake-Up dialogue for Anomen Romance (By David Gaider with additions from Kulyok): v5.9
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #4 // NPC Conflict Revisions: v5.9
+~IEPBANTERS\IEPBANTERS.TP2~ #0 #5 // Restored Aerie/Jaheira/Anomen interjection in Underdark: v5.9
+~WILDMAGE\WILDMAGE.TP2~ #0 #0 // New Wild Magic Spells -> Ironman: v2.2
+~WILDMAGE\WILDMAGE.TP2~ #0 #2 // Retain Rhialto's items: v2.2
+~IISPELLSYSTEMADJUSTMENTS\SETUP-IISPELLSYSTEMADJUSTMENTS.TP2~ #0 #2 // XP for casting Arcane Spells: v7.1
+~IISPELLSYSTEMADJUSTMENTS\SETUP-IISPELLSYSTEMADJUSTMENTS.TP2~ #0 #3 // XP for casting Divine Spells: v7.1
+~RR\SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.93
+~RR\SETUP-RR.TP2~ #0 #1 // Thief kit revisions: v4.93
+~RR\SETUP-RR.TP2~ #0 #2 // Thief High Level Ability revisions: v4.93
+~RR\SETUP-RR.TP2~ #0 #3 // Proper racial adjustments for thieving skills: v4.93
+~RR\SETUP-RR.TP2~ #0 #4 // Bard kit revisions: v4.93
+~RR\SETUP-RR.TP2~ #0 #5 // Bard High Level Ability revisions: v4.93
+~RR\SETUP-RR.TP2~ #0 #6 // Proper spell progression for Bards: v4.93
+~RR\SETUP-RR.TP2~ #0 #7 // Additional equipment for Thieves and Bards: v4.93
+~RR\SETUP-RR.TP2~ #0 #8 // Upgradeable Equipment: v4.93
+~RR\SETUP-RR.TP2~ #0 #9 // Revised Thievery -> Use PnP thievery potions and prevent their effects from stacking: v4.93
+~RR\SETUP-RR.TP2~ #0 #11 // Chosen of Cyric encounter: v4.93
+~RR\SETUP-RR.TP2~ #0 #12 // Shadow Thief Improvements: v4.93
+~RR\SETUP-RR.TP2~ #0 #999 // BG2-style icons for RR content: v4.93
+~THALAN\THALAN.TP2~ #0 #0 // Thalantyr - Item Upgrade: v4.2.5
+~ITEM_REV\ITEM_REV.TP2~ #0 #0 // Item Revisions by Demivrgvs: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1030 // Store Revisions: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1040 // Revised Armor -> With Movement Speed Penalties: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #2 // Allow Spellcasting in Armor -> With a Chance of Arcane Casting Failure: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #9 // Allow Thieving Skills in Armor -> Stealth is Penalized by Armor: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #10 // Revised Shield Bonuses: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1080 // Enchantment Doesn't Affect Speed Factor of Weapons: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #11 // Dual Wielding Changes for Light and Heavy Weapons: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #18 // Revised Backstabbing -> Thief-only Weapons: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1200 // Revised Critical Hit Aversion: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #12 // Items of Protection Can Be Worn with Magical Armor: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #16 // PnP Equipment for Druids -> Druids and Fighter/Druids: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1060 // Kensai Can Wear Bracers: V4 Beta 10
+~ITEM_REV\ITEM_REV.TP2~ #0 #1070 // Thieves Can Use Wands: V4 Beta 10
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #1001 // Edwin appearance -> BG2: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #1011 // Imoen appearance -> BG2: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #1021 // Jaheira appearance -> BG2: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #1031 // Minsc appearance -> BG2: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #1042 // Viconia appearance -> SoD: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #2002 // Total XP CAP -> Disabled: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #3000 // Disable hostile reaction after charm: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #3010 // PnP spell scroll caster levels: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #3022 // Familiar death consequences -> Disabled: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4020 // Higher framerates support: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4040 // Import party items to SoA: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4050 // Books/Scrolls categorization: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4060 // Wand Case: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4070 // Key Ring: 1.12
+~EET_TWEAKS\EET_TWEAKS.TP2~ #0 #4080 // Replace classic BG1 movies with BG:EE ones -> Replace movies: 1.12
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #140 // Fix Boo's Squeak: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #170 // Unique Icons [Lava] -> Only replace icons that aren't already unique: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #180 // Unique Containers [Miloch] -> Fixes only: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2010 // Separate Resist Fire/Cold Icon into Separate Icons [Angel]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1010 // More Interjections: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1020 // Alter HP Triggers for NPC Wounded Dialogues: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1060 // Breakable Iron Non-Magical Shields, Helms, and Armor: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1075 // Send BioWare NPCs to an Inn [DavidW/Zed Nocear]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1080 // Add Bags of Holding: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1161 // Multiple Strongholds [Sabre, Baldurdash, Weimer] -> Keep class restrictions: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1180 // Female Edwina [Davide Carte, Wendy Yung, Weimer]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1220 // Allow Cromwell to Upgrade Watcher's Keep Items: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1230 // Allow Cespenar to Use Cromwell Recipes: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1251 // Move NPCs to Convenient Locations: Move Alora to Gullykin: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1252 // Move NPCs to Convenient Locations: Move Eldoth to the Coast Way: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1253 // Move NPCs to Convenient Locations: Move Quayle to the Nashkel Carnival: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1254 // Move NPCs to Convenient Locations: Move Shar-Teel to North Nashkel Road: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1255 // Move NPCs to Convenient Locations: Move Tiax to Beregost: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1256 // Move NPCs to Convenient Locations: Move Viconia to South Beregost Road: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #1270 // Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2170 // Cast Spells from Scrolls (and Other Items) at Character Level: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2192 // Limit Ability of Storekeepers to Identify Items -> Hybrid of both methods: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2200 // Multi-Class Grandmastery [Weimer]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2210 // Change Grandmastery Bonuses -> True grandmastery [Baldurdash]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2240 // Un-Nerfed THAC0 Table: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2250 // Un-Nerfed Sorcerer Spell Progression Table: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2261 // Alter Mage Spell Progression Table -> PnP table: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2281 // Alter Cleric Spell Progression Table -> PnP table: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2291 // Alter Druid Spell and Level Progression Tables -> No level progression changes, PnP druid/cleric spell table only: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2580 // Alter Wisdom-Based Divine Bonus Spell Table -> Use PnP/PsT Table: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2312 // Add Save Penalties for Spells Cast by High-Level Casters -> Arcane and divine magic: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2320 // Trap Cap Removal [Ardanis/GeN1e]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2330 // Remove Delay for Magical Traps [Ardanis/GeN1e]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2339 // Remove Summoning Cap for Regular Summons: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2340 // Remove Summoning Cap for Celestials [Ardanis/GeN1e]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2440 // Everyone Gets Bonus APR from Specialization [subtledoctor]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2510 // Level-Lock Spell Scrolls [Angel]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2530 // Lightning Bolts Don't Bounce [Angel]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2620 // Make Certain Creatures Immune to Backstab/Sneak Attack [Luke]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #2999 // Max HP at Level One: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #3060 // Remove "You Must Gather Your Party..." Sound [Weimer]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #3125 // Neutral Characters Make Happy Comments at Mid-Range Reputation [Luiz]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #3230 // Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4000 // Adjust Evil Joinable NPC Reaction Rolls: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4025 // Allow NPC Pairs to Separate: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4031 // Consistent Stats: Edwin -> Use BG2 values: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4041 // Consistent Stats: Jaheira -> Use BG2 values: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4061 // Consistent Stats: Minsc -> Use BG2 values: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4071 // Consistent Stats: Viconia -> Use BG2 values: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4090 // Make Montaron an Assassin [Andyr]: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4100 // Change Korgan to Neutral Evil Alignment: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4150 // Move Boo Into Minsc's Pack: v16
+~CDTWEAKS\SETUP-CDTWEAKS.TP2~ #0 #4170 // Ensure Shar-Teel Doesn't Die in the Original Challenge: v16
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #100 // Restore innate infravision to Half-Orc characters: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #101 // Prevent skeletal and incorporeal undead from being affected by Illithids' Devour Brain attack: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #117 // Allow Mages to scribe memorized spells onto scrolls -> Scrolls can only be scribed at inns and strongholds: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #120 // Restore innate disease immunity to Paladins: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #125 // Rangers' Animal Empathy improves with experience: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #130 // Additional racial traits for Dwarves: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #140 // Additional racial traits for Gnomes: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #153 // PnP Fiends -> Give aTweaks scripts to all fiends but do not alter statistics: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #155 // Further Revised Fiend Summoning: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #156 // Fiendish gating: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #160 // PnP Undead: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #180 // PnP Mephits: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #185 // PnP Fey creatures: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #186 // Revised Call Woodland Beings spell: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #201 // Instant casting for warrior innates: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #202 // Revised Bhaalpowers -> Enhance the Bhaalpowers and standardize their casting time: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #218 // Regain Bhaalpowers in ToB: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #203 // Make druidic shapeshifting uninterruptable: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #204 // Prevent Mislead clones from singing Bard songs: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #205 // Prevent Project Image and Simulacrum clones from using quickslot items: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #211 // Make Death Ward protect against Vorpal Hits: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #210 // Restore the Dispel Magic vulnerability to Nishruu and Hakeashars: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #212 // Make alignment detection spells more accurate: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #213 // Expanded saving throw bonus tables for Dwarves, Gnomes and Halflings: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #216 // Bard songs break invisibility -> Only the Jester song breaks invisibility: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #270 // Unbiased quest rewards: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #310 // Distinctive creature coloring: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #315 // Distinctive creature soundsets: v4.53
+~ATWEAKS\SETUP-ATWEAKS.TP2~ #0 #999 // BG2-style icons for aTweaks content: v4.53
+~PROTAGONIST_CAN_DIE\PROTAGONIST_CAN_DIE.TP2~ #0 #0 // Protagonist can die: 0.93
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #1500 // Include arcane spells from Icewind Dale: Enhanced Edition: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #1510 // Include divine spells from Icewind Dale: Enhanced Edition: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #1520 // Include bard songs from Icewind Dale: Enhanced Edition: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #2000 // Install all spell tweaks (if you don't select this, you will be given a chance to choose by category): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #2500 // Add 9 new arcane spells: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #2510 // Add 6 new divine spells (some borrowed from Divine Remix): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #2520 // Revised elementals and elemental summoning: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #3505 // Wider selection of random scrolls: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4000 // More Appropriate-Speed Bears: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4020 // More realistic wolves and wild dogs: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4030 // Improved shapeshifting: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4051 // Decrease the rate at which reputation improves -> Reputation increases at about 1/2 the normal rate: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4115 // Thieves assign skill points in multiples of five: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4130 // Revised handling of death effects like disintegration, petrification and imprisonment (party members who are disintegrated etc can be resurrected; imprisoned or petrified characters rejoin the party automatically; the game doesn't end if the main character is petrified or imprisoned): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4135 // Revised resting: resting in the wild uses up provisions: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4140 // Revised inn rooms: more expensive, more benefits: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4145 // Skip the Candlekeep tutorial sections -> Remove the tutorial NPCs from Candlekeep: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4150 // Allow the Cowled Wizards to detect spellcasting in most indoor, above-ground areas in Athkatla: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4161 // Increase the price of a license to practise magic in Athkatla -> License costs 15,000 gp: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4173 // Increase the price asked by Gaelan Bayle -> Gaelan wants 100,000 gold pieces: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4240 // Treat mages' and priests' High-Level Abilities as innate abilities rather than memorisable spells (each may be taken only once): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #4250 // Make spell sequencers and contingencies into innate abilities: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #5000 // Ease-of-use party AI: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #5080 // Improved BG Textscreens: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #5900 // Initialise AI components (required for all tactical and AI components): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6000 // Smarter general AI: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6010 // Better calls for help: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6030 // Smarter Mages: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6040 // Smarter Priests: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6100 // Potions for NPCs: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6200 // Improved Spiders: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6300 // Smarter sirines and dryads: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6310 // Slightly smarter carrion crawlers: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6320 // Smarter basilisks: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6500 // Improved golems: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6510 // Improved fiends and celestials: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6520 // Smarter genies: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6540 // Smarter dragons: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6550 // Smarter beholders: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6560 // Smarter mind flayers: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6570 // Smarter githyanki: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6580 // Improved Vampires: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6590 // Smarter Throne of Bhaal final villain: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6800 // Smarter Illasera: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6810 // Smarter Gromnir: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6820 // Smarter Yaga-Shura: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6830 // Smarter Abazigal: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6840 // Ascension versions of Irenicus and Sendai use SCS abilities and AI: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #6850 // Ascension demons use SCS abilities and AI: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7000 // Improved doppelgangers: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7010 // Tougher Black Talons and Iron Throne guards: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7020 // Improved deployment for parties of assassins: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7030 // Improved kobolds: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7040 // Relocated bounty hunters: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7050 // Improved Ulcaster: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7060 // Improved Balduran's Isle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7070 // Improved Durlag's Tower: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7080 // Improved Demon Cultists: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7090 // Improved Cloakwood Druids: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7100 // Improved Bassilus: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7110 // Improved Drasus party: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7130 // Improved Red Wizards: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7140 // Improved Undercity assassins: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7150 // Improved Carsa/Kahrk interaction: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7200 // Tougher chapter-two end battle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7210 // Tougher chapter-three end battle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7220 // Tougher chapter-four end battle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7230 // Tougher chapter-five end battle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7250 // Improved final battle: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #7900 // Improved minor encounters: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8000 // Make the starting dungeon slightly harder: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8010 // Improved Shade Lord: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8020 // Spellcasting Demiliches: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8040 // Tie difficulty of level-dependent monster groupings to the difficulty slider: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8050 // Improved Random Encounters: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8060 // Improved de'Arnise Keep ("Tactics Remix"): 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8070 // Improved Unseeing Eye: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8080 // Improved Bodhi: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8085 // Ascension version of Bodhi uses Improved-Bodhi abilities: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8090 // Party's items are taken from them in Spellhold: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8100 // Improved battle with Irenicus in Spellhold: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8110 // Improved Sahuagin: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8120 // Improved Beholder hive: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8130 // Rebalanced troll regeneration: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8140 // Improved Drow: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8150 // Improved Watcher's Keep: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8160 // Improved Fire Giant temple: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8170 // Improved Sendai's Enclave: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8180 // Improved Abazigal's Lair: 35.4
+~STRATAGEMS\SETUP-STRATAGEMS.TP2~ #0 #8190 // Improved Minor Encounters: 35.4
+~EET_END\EET_END.TP2~ #0 #0 // EET end (last mod in install order) -> Standard installation
