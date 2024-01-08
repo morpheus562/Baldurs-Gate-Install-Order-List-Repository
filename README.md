@@ -39,7 +39,7 @@ Nalier install order installed on 2023-06-11 for [BGEE](https://raw.githubuserco
 
 Subtledoctor [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) 
 - Installed on 2022-06-04 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/2022/WeiDU-BGEE-2022-06-04.log)
-- Installed on 2023-11-04 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/2022/WeiDU-BGEE-2023-11-04.log)
+- Installed on 2023-11-04 for [BGEE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/2023/WeiDU-BGEE-2023-11-04.log)
 
 ## Baldur's Gate II: Enhanced Edition ONLY WeiDU Logs
 
