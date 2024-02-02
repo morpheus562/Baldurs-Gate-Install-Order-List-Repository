@@ -47,6 +47,8 @@ Coredumped install order provided on 2022-06-23 for [BG2EE](https://raw.githubus
 
 dark0dave install order provided on 2023-01-23 with [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/dark0dave/README.md) for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/dark0dave/current_bg2_weidu.log)
 
+Epickiwhy install order provided on 2024-02-01 for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/epickiwhy/WeiDU-BG2EE-2024-02-01.log)
+
 Subtledoctor [readme](https://github.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/blob/main/user-submitted-weidu-logs/subtledoctor/readme.md) 
 - Installed on 2022-06-04 for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/2022/WeiDU-BG2EE-2022-06-04.log)
 - Installed on 2023-11-04 for [BG2EE](https://raw.githubusercontent.com/morpheus562/Baldurs-Gate-Install-Order-List-Repository/main/user-submitted-weidu-logs/subtledoctor/2023/WeiDU-BG2EE-2023-11-04.log)
