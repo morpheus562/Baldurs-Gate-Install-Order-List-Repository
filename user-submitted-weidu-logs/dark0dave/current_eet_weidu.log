@@ -5,28 +5,34 @@
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #100 // IWD Class Updates: Paladin: IWD Abilities and Skills: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #160 // IWD Class Updates: Paladin: Use IWD Spell Progression: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #170 // IWD Class Updates: Ranger: Use IWD Spell Progression: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #30 // IWD Arcane Spell Pack: v5
 ~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #40 // IWD Divine Spell Pack: v5
-~ASCENSION/ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #40 // Restored Bhaalspawn Powers: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1000 // Tougher Abazigal: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1100 // Tougher Balthazar: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1200 // Tougher Demogorgon: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1300 // Tougher Gromnir: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1400 // Tougher Illasera: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #1500 // Tougher Yaga-Shura: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.26
-~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.26
-~LONGERROAD/LONGERROAD.TP2~ #0 #0 // Longer Road: 2.0.7
-~LONGERROAD/LONGERROAD.TP2~ #0 #1 // Restore Irenicus's original portrait from SoA.: 2.0.7
+~NTOTSC/NTOTSC.TP2~ #0 #0 // Northern Tales of the Sword Coast (NTotSC) for BGT-Weidu, BG:EE, and EET: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #2 // Keelor the Dwarf: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #3 // Llindellyn's Lucky Arrow: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #5 // Pilar and Gheldehar: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #7 // Will O'Hara NPC: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #8 // Will O'Hara: Install English Soundset: 5.0.0
+~NTOTSC/NTOTSC.TP2~ #0 #9 // Fighting Encounters: 5.0.0
+~GORGON/SETUP-GORGON.TP2~ #0 #0 // Install The Gorgon's Eye: v4.4
+~GORGON/SETUP-GORGON.TP2~ #0 #1 // Add More Pickpocketable Items: v4.4
+~ASCENSION/ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #30 // Improved Imoen-Player Interactions in Throne of Bhaal: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #40 // Restored Bhaalspawn Powers: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #50 // Improved Slayer Transformation: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1000 // Tougher Abazigal: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1100 // Tougher Balthazar: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1200 // Tougher Demogorgon: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1300 // Tougher Gromnir: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1400 // Tougher Illasera: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #1500 // Tougher Yaga-Shura: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #2000 // Full-body portrait for Bodhi: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.28
+~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.28
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #0 // Restored Locations: v8.4
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #1 // Restored Characters and Dialogs: v8.4
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #2 // Restored Sounds: v8.4
@@ -66,6 +72,7 @@
 ~RR/SETUP-RR.TP2~ #0 #8 // Upgradeable Equipment: v4.92
 ~RR/SETUP-RR.TP2~ #0 #11 // Chosen of Cyric encounter: v4.92
 ~RR/SETUP-RR.TP2~ #0 #12 // Shadow Thief Improvements: v4.92
+~EILISTRAEE/SETUP-EILISTRAEE.TP2~ #0 #0 // Eilistraee's Song -> Yes, but don't patch the existing save games: 7.3
 ~A7#IMPROVEDARCHER/A7#IMPROVEDARCHER.TP2~ #0 #100 // Add +4 arrows, bolts and powerful bows to the game: v4.2
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #2041 // XP for Traps, Spells and Lockpicking -> BG2 values: 1.12
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #4020 // Higher framerates support: 1.12
@@ -74,29 +81,34 @@
 ~EET_TWEAKS/EET_TWEAKS.TP2~ #0 #4070 // Key Ring: 1.12
 ~JANQUEST/SETUP-JANQUEST.TP2~ #1 #0 // Jan's Extended Quest
 ~C#SB_SILBER/SETUP-C#SB_SILBER.TP2~ #0 #0 // Adalon's Blood - Modification for BGII by Gandalf the white: 15
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 3.12
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #1 // For the Evil: Additional content that might disturb a truly good player.: Version 3.12
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #2 // For the Good: Additional content that might annoy a truly evil player.: Version 3.12
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #4 // Optional Soundset for Clara NPC: Version 3.12
-~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #5 // Optional Hi-Res Portrait for Mazzy created by Edvin.: Version 3.12
-~SKIECOST/SKIECOST.TP2~ #0 #0 // Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE: v5.3
-~SKIECOST/SKIECOST.TP2~ #0 #1 // Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC: v5.3
-~SKIECOST/SKIECOST.TP2~ #0 #2 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Skie: v5.3
-~SKIECOST/SKIECOST.TP2~ #0 #3 // Skie: The Cost of One Girl's Soul - The Return of Eddard Silvershield (quest & a joinable NPC): v5.3
-~SKIECOST/SKIECOST.TP2~ #0 #4 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard: v5.3
-~SKIECOST/SKIECOST.TP2~ #0 #5 // Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2: v5.3
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #0 // All Things Mazzy: Version 3.13
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #1 // For the Evil: Additional content that might disturb a truly good player.: Version 3.13
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #2 // For the Good: Additional content that might annoy a truly evil player.: Version 3.13
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #4 // Optional Soundset for Clara NPC: Version 3.13
+~ALLTHINGSMAZZY/SETUP-ALLTHINGSMAZZY.TP2~ #0 #5 // Optional Hi-Res Portrait for Mazzy created by Edvin.: Version 3.13
+~SKIECOST/SKIECOST.TP2~ #0 #0 // Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE: v6.0
+~SKIECOST/SKIECOST.TP2~ #0 #1 // Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC: v6.0
+~SKIECOST/SKIECOST.TP2~ #0 #2 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Skie: v6.0
+~SKIECOST/SKIECOST.TP2~ #0 #3 // Skie: The Cost of One Girl's Soul - The Return of Eddard Silvershield (quest & a joinable NPC): v6.0
+~SKIECOST/SKIECOST.TP2~ #0 #4 // Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard: v6.0
+~SKIECOST/SKIECOST.TP2~ #0 #5 // Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2: v6.0
 ~BACKBRYNNLAW/BACKBRYNNLAW.TP2~ #0 #0 // Back to Brynnlaw mod for Baldur's Gate II: v9
+~C#SOLAUFEIN/C#SOLAUFEIN.TP2~ #1 #0 // Solaufein's Rescue: Jastey's Solaufein NPC for BGII: 4.2
+~YOSHIMOSREMORSE/YOSHIMOSREMORSE.TP2~ #0 #0 // Yoshimo's Remorse: v3.1.1
+~ISHLILKAMOD/SETUP-ISHLILKAMOD.TP2~ #0 #500 // Ishlilka mod for BGSoD and EET
+~EHLASTRA/EHLASTRA.TP2~ #0 #0 // Ehlastra ToB: v0.6
 ~PAINA/PAINA.TP2~ #0 #0 // Pai'Na NPC for BG:EE
 ~SIMENPC/SIMENPC.TP2~ #0 #0 // Sime NPC: v0.5
 ~LCA/LCA.TP2~ #0 #0 // Love Conquers All (LCA)
+~SLANDOR/SLANDOR.TP2~ #1 #0 // The Minotaur and Lilacor: 2.1
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #0 // Monk High Level Abilities by Kish
 ~MNKOVERHAUL/MNKOVERHAUL.TP2~ #0 #1 // Monk Fist Overhaul -> 3:+1 9:+2 12:+3 15:+4 25:+5
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 4.31
-~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8003 // Artisan's Kitpack: Pale Master Spells -> All Necromancy Divine Spells (including Cure Wounds, Neutralize Poison, etc.): 4.31
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #1000 // Artisan's Kitpack: Arcane Archer Fighter Kit: 4.7
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5001 // Artisan's Kitpack: Elementalist Druid Kit: 4.7
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #5002 // Artisan's Kitpack: Hivemaster Druid Kit: 4.7
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 4.7
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 4.7
+~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8003 // Artisan's Kitpack: 3e-accurate Dragon Disciple -> Nerfed stat bonuses (net +2 to STR): 4.7
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #403 // Install Bowslinger Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #406 // Install Feralan Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #409 // Install Forest Runner Ranger Kit: 8.1
@@ -108,10 +120,8 @@
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #3580 // Restoration and Lesser Restoration spells heal ability-score damage: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4000 // Faster Bears: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4030 // Improved shapeshifting: 34.3
-~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4050 // Decrease the rate at which reputation improves -> Reputation increases at about 2/3 the normal rate: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4115 // Thieves assign skill points in multiples of five: 34.3
-~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4164 // Increase the price of a license to practise magic in Athkatla -> License costs 50,000 gp: 34.3
-~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4173 // Increase the price asked by Gaelan Bayle -> Gaelan wants 100,000 gold pieces: 34.3
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #4240 // Treat mages' and priests' High-Level Abilities as innate abilities rather than memorisable spells (each may be taken only once): 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #5900 // Initialise AI components (required for all tactical and AI components): 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6000 // Smarter general AI: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6010 // Better calls for help: 34.3
@@ -134,7 +144,6 @@
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6830 // Smarter Abazigal: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6840 // Ascension versions of Irenicus and Sendai use SCS abilities and AI: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #6850 // Ascension demons use SCS abilities and AI: 34.3
-~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8000 // Make the starting dungeon slightly harder: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8010 // Improved Shade Lord: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8020 // Spellcasting Demiliches: 34.3
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8040 // Tie difficulty of level-dependent monster groupings to the difficulty slider: 34.3
@@ -155,8 +164,8 @@
 ~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #0 #8190 // Improved Minor Encounters: 34.3
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #10 // Remove Helmet Animations: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #20 // Change Imoen's Avatar to Mage: v16
+~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #30 // Change Nalia's Avatar to Thief: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #40 // Change Viconia's Skin Color to Dark Blue: v16
-~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #50 // Avatar Morphing Script: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #60 // Weapon Animation Tweaks: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #110 // Icon Improvements: v16
 ~CDTWEAKS/SETUP-CDTWEAKS.TP2~ #0 #130 // Force All Dialogue to Pause Game: v16
