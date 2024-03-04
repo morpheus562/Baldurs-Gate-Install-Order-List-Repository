@@ -1,6 +1,13 @@
 // Log of Currently Installed WeiDU Mods
 // The top of the file is the 'oldest' mod
 // ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #160 // IWD Class Updates: Paladin: Use IWD Spell Progression: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #170 // IWD Class Updates: Ranger: Use IWD Spell Progression: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #30 // IWD Arcane Spell Pack: v5
+~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #40 // IWD Divine Spell Pack: v5
 ~ASCENSION/ASCENSION.TP2~ #0 #0 // Rewritten Final Chapter of Throne of Bhaal: 2.0.26
 ~ASCENSION/ASCENSION.TP2~ #0 #10 // Balthazar can be redeemed: 2.0.26
 ~ASCENSION/ASCENSION.TP2~ #0 #20 // Improved Sarevok-Player Interactions: 2.0.26
@@ -18,8 +25,6 @@
 ~ASCENSION/ASCENSION.TP2~ #0 #2200 // Extended Epilogues for additional Beamdog NPCs, by shawne: 2.0.26
 ~ASCENSION/ASCENSION.TP2~ #0 #2300 // Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW: 2.0.26
 ~ASCENSION/ASCENSION.TP2~ #0 #2400 // Slightly improved cutscenes, by DavidW: 2.0.26
-~LONGERROAD/LONGERROAD.TP2~ #0 #0 // Longer Road: 2.0.6
-~LONGERROAD/LONGERROAD.TP2~ #0 #1 // Restore Irenicus's original portrait from SoA.: 2.0.6
 ~RR/SETUP-RR.TP2~ #0 #0 // Proper dual-wielding implementation for Thieves and Bards: v4.92
 ~RR/SETUP-RR.TP2~ #0 #1 // Thief kit revisions: v4.92
 ~RR/SETUP-RR.TP2~ #0 #2 // Thief High Level Ability revisions: v4.92
@@ -31,14 +36,6 @@
 ~RR/SETUP-RR.TP2~ #0 #8 // Upgradeable Equipment: v4.92
 ~RR/SETUP-RR.TP2~ #0 #11 // Chosen of Cyric encounter: v4.92
 ~RR/SETUP-RR.TP2~ #0 #12 // Shadow Thief Improvements: v4.92
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #10 // Icewind Dale Casting Graphics (Andyr): v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #130 // Use IWD Damage Animations: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #150 // IWD Class Updates: Bard: Use IWD Spell Progression: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #100 // IWD Class Updates: Paladin: IWD Abilities and Skills: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #160 // IWD Class Updates: Paladin: Use IWD Spell Progression: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #170 // IWD Class Updates: Ranger: Use IWD Spell Progression: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #30 // IWD Arcane Spell Pack: v5
-~IWDIFICATION/SETUP-IWDIFICATION.TP2~ #0 #40 // IWD Divine Spell Pack: v5
 ~A7#IMPROVEDARCHER/A7#IMPROVEDARCHER.TP2~ #0 #100 // Add +4 arrows, bolts and powerful bows to the game: v4.1
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #0 // Restored Locations: v8.4
 ~ARESTORATIONP/ARESTORATIONP.TP2~ #1 #1 // Restored Characters and Dialogs: v8.4
@@ -92,7 +89,6 @@
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #7001 // Artisan's Kitpack: Rogue Archer Thief Kit: 4.31
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8001 // Artisan's Kitpack: Pale Master Sorcerer Kit: 4.31
 ~ARTISANSKITPACK/ARTISANSKITPACK.TP2~ #0 #8003 // Artisan's Kitpack: Pale Master Spells -> All Necromancy Divine Spells (including Cure Wounds, Neutralize Poison, etc.): 4.31
-~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #11 // Install new spells -> Only add spells if not present from other mods: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #403 // Install Bowslinger Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #406 // Install Feralan Ranger Kit: 8.1
 ~DIVINE_REMIX/SETUP-DIVINE_REMIX.TP2~ #0 #409 // Install Forest Runner Ranger Kit: 8.1
